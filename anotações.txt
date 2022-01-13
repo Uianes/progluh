@@ -1,0 +1,116 @@
+var name = document.getElementById("UF").value.toUpperCase()
+                    var nameCourse = document.getElementById("course_type").value.toUpperCase()
+                    if (nameCourse == 'CONCOMITANTE') {
+                        if(name == 'RIO GRANDE DO SUL'){
+                            this.fetchData('concomitante', 'rio_grande_do_sul')
+                        } else if(name == 'CEARÁ'){
+                            this.fetchData('concomitante', 'ceará')
+                        } else if(name == 'ESPÍRITO SANTOS'){
+                            this.fetchData('concomitante', 'espírito_santo')
+                        } else if(name == 'GOIÁS'){
+                            this.fetchData('concomitante', 'goiás')
+                        } else if(name == 'MARANHÃO'){
+                            this.fetchData('concomitante', 'maranhão')
+                        } else if(name == 'MINAS GERAIS'){
+                            this.fetchData('concomitante', 'minas_gerais')
+                        } else if(name == 'RIO DE JANEIRO'){
+                            this.fetchData('concomitante', 'rio_de_janeiro')
+                        } else if(name == 'SÃO PAULO'){
+                            this.fetchData('concomitante', 'são_paulo')
+                        } else if(name == 'TOCANTINS'){
+                            this.fetchData('concomitante', 'tocantins')
+                        }
+                    } else if(nameCourse == 'INTEGRADO'){
+                        if(name == 'RIO GRANDE DO SUL'){
+                            this.fetchData('integrado', 'rio_grande_do_sul')
+                        }
+                        else if(name == 'ALAGOAS'){
+                            this.fetchData('integrado', 'alagoas')
+                        } else if(name == 'AMAPÁ'){
+                            this.fetchData('integrado', 'amapá')
+                        } else if(name == 'AMAZONAS'){
+                            this.fetchData('integrado', 'amazonas')
+                        } else if(name == 'BAHIA'){
+                            this.fetchData('integrado', 'bahia')
+                        } else if(name == 'CEARÁ'){
+                            this.fetchData('integrado', 'ceará')
+                        } else if(name == 'DISTRITO FEDERAL'){
+                            this.fetchData('integrado', 'distrito_federal')
+                        } else if(name == 'ESPÍRITO SANTO'){
+                            this.fetchData('integrado', 'espírito_santo')
+                        } else if(name == 'GOIÁS'){
+                            this.fetchData('integrado', 'goiás')
+                        } else if(name == 'MARANHÃO'){
+                            this.fetchData('integrado', 'maranhão')
+                        } else if(name == 'MATO GROSSO DO SUL'){
+                            this.fetchData('integrado', 'mato_grosso_do_sul')
+                        } else if(name == 'MATO GROSSO'){
+                            this.fetchData('integrado', 'mato_grosso')
+                        } else if(name == 'MINAS GERAIS'){
+                            this.fetchData('integrado', 'minas_gerais')
+                        } else if(name == 'PARÁ'){
+                            this.fetchData('integrado', 'pará')
+                        } else if(name == 'PARAÍBA'){
+                            this.fetchData('integrado', 'paraíba')
+                        } else if(name == 'PARANÁ'){
+                            this.fetchData('integrado', 'paraná')
+                        } else if(name == 'PERNAMBUCO'){
+                            this.fetchData('integrado', 'pernambuco')
+                        } else if(name == 'RIO DE JANEIRO'){
+                            this.fetchData('integrado', 'rio_de_janeiro')
+                        } else if(name == 'RIO GRANDE DO NORTE'){
+                            this.fetchData('integrado', 'rio_grande_do_norte')
+                        } else if(name == 'RONDÔNIA'){
+                            this.fetchData('integrado', 'rondônia')
+                        } else if(name == 'RORAIMA'){
+                            this.fetchData('integrado', 'roraima')
+                        } else if(name == 'SANTA CATARINA'){
+                            this.fetchData('integrado', 'santa_catarina')
+                        } else if(name == 'SÃO PAULO'){
+                            this.fetchData('integrado', 'são_paulo')
+                        } else if(name == 'SERGIPE'){
+                            this.fetchData('integrado', 'sergipe')
+                        } else if(name == 'TOCANTINS'){
+                            this.fetchData('integrado', 'tocantins')
+                        }
+                    } else if(nameCourse == 'PROEJA'){
+                        if(name == 'MARANHÃO'){
+                            this.fetchData('proeja', 'maranhão')
+                        } else if(name == 'RONDÔNIA'){
+                            this.fetchData('proeja', 'rondônia')
+                        }
+                    } else if(nameCourse == 'SUBSEQUENTE'){
+                        if(name == 'AMAPÁ'){
+                            this.fetchData('subsequente', 'amapá')
+                        } else if(name == 'AMAZONAS'){
+                            this.fetchData('subsequente', 'amazonas')
+                        } else if(name == 'BAHIA'){
+                            this.fetchData('subsequente', 'bahia')
+                        } else if(name == 'CEARÁ'){
+                            this.fetchData('subsequente', 'ceará')
+                        } else if(name == 'GOIÁS'){
+                            this.fetchData('subsequente', 'goiás')
+                        } else if(name == 'MARANHÃO'){
+                            this.fetchData('subsequente', 'maranhão')
+                        } else if(name == 'MATO GROSSO DO SUL'){
+                            this.fetchData('subsequente', 'mato_grosso_do_sul')
+                        } else if(name == 'MINAS GERAIS'){
+                            this.fetchData('subsequente', 'minas_gerais')
+                        } else if(name == 'PARAÍBA'){
+                            this.fetchData('subsequente', 'paraíba')
+                        } else if(name == 'PERNAMBUCO'){
+                            this.fetchData('subsequente', 'pernambuco')
+                        } else if(name == 'RIO DE JANEIRO'){
+                            this.fetchData('subsequente', 'rio_de_janeiro')
+                        } else if(name == 'RIO GRANDE DO SUL'){
+                            this.fetchData('subsequente', 'rio_grande_do_sul')
+                        } else if(name == 'SANTA CATARINA'){
+                            this.fetchData('subsequente', 'santa_catarina')
+                        } else if(name == 'SÃO PAULO'){
+                            this.fetchData('subsequente', 'são_paulo')
+                        } else if(name == 'TOCANTINS'){
+                            this.fetchData('subsequente', 'tocantins')
+                        }
+                    } else {
+                        document.getElementById("results").innerHTML = `Nenhum resultado encontrado.`
+                    }
