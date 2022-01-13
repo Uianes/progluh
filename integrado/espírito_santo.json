@@ -1,0 +1,17 @@
+    {
+        "id": 1,
+        "instituição": "IFES",
+        "campus": "Alegre",
+        "modalidade": "INTEGRADO",
+        "duração": 3,
+        "ano": 2017,
+        "disciplina": "Introdução a Programação",
+        "área": "Núcleo Profissional",
+        "ano_oferta": 1,
+        "semestre": "Anual",
+        "horas": 120,
+        "linguagem": "C",
+        "conteúdos": 74,
+        "bibliografia_básica": "24; 47; 106; 107; 108;",
+        "bibliografia_complementar": "9; 121; 122; 123; 124;"
+    }

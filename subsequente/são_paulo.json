@@ -1,0 +1,36 @@
+[
+    {
+        "id": 1,
+        "instituição": "IFSP",
+        "campus": "Campinas",
+        "modalidade": "SUBSEQUENTE",
+        "duração": 1.5,
+        "ano": 2018,
+        "disciplina": "Algoritmos e lógica de Programação",
+        "área": "",
+        "ano_oferta": 1,
+        "semestre": 1,
+        "horas": 100,
+        "linguagem": "",
+        "conteúdos": 11,
+        "bibliografia_básica": "4; 16; 25;",
+        "bibliografia_complementar": "31; 38; 39;"
+    },
+    {
+        "id": 2,
+        "instituição": "IFSP",
+        "campus": "Salto",
+        "modalidade": "SUBSEQUENTE",
+        "duração": 2,
+        "ano": 2010,
+        "disciplina": "Algoritmos e programação",
+        "área": "",
+        "ano_oferta": 1,
+        "semestre": 1,
+        "horas": 160,
+        "linguagem": "",
+        "conteúdos": 15,
+        "bibliografia_básica": "2; 8; 30;",
+        "bibliografia_complementar": "1; 9; 37; 41; 85;"
+    }
+]

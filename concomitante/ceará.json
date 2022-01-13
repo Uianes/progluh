@@ -1,0 +1,36 @@
+[
+    {
+        "id": 1,
+        "instituição": "IFCE",
+        "campus": "Aracati",
+        "modalidade": "CONCOMITANTE",
+        "duração": 1.5,
+        "ano": 2020,
+        "disciplina": "Introdução à programação",
+        "área": "",
+        "ano_oferta": 1,
+        "semestre": 1,
+        "horas": 80,
+        "linguagem": "",
+        "conteúdos": 3,
+        "bibliografia_básica": "7; 8; 9; 10;",
+        "bibliografia_complementar": "6; 7; 8; 9; 10;"
+    },
+    {
+        "id": 2,
+        "instituição": "IFCE",
+        "campus": "Morada Nova",
+        "modalidade": "CONCOMITANTE",
+        "duração": 2,
+        "ano": 2015,
+        "disciplina": "Introdução à programação",
+        "área": "",
+        "ano_oferta": 1,
+        "semestre": 1,
+        "horas": 80,
+        "linguagem": "",
+        "conteúdos": 3,
+        "bibliografia_básica": "7; 8; 10; 12; 13;",
+        "bibliografia_complementar": "6; 7; 8; 11; 12; 13;"
+    }
+]

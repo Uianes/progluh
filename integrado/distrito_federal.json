@@ -1,0 +1,17 @@
+    {
+        "id": 1,
+        "instituição": "IFB",
+        "campus": "Brasília",
+        "modalidade": "INTEGRADO",
+        "duração": 3,
+        "ano": 2014,
+        "disciplina": "Lógica de programação",
+        "área": "Formação Profissional",
+        "ano_oferta": 1,
+        "semestre": "Anual",
+        "horas": 120,
+        "linguagem": "",
+        "conteúdos": 60,
+        "bibliografia_básica": "4; 7; 20; 25; 29; 47; 71;",
+        "bibliografia_complementar": "9; 14; 31; 36; 55; 63; 97;"
+    }

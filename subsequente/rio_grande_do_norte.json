@@ -1,0 +1,53 @@
+[
+    {
+        "id": 1,
+        "instituição": "IFRN",
+        "campus": "João Câmara",
+        "modalidade": "SUBSEQUENTE",
+        "duração": 2,
+        "ano": 2011,
+        "disciplina": "Fundamentos de Lógica e Algorirtmos",
+        "área": "Núcleo Articulador",
+        "ano_oferta": 1,
+        "semestre": 1,
+        "horas": 80,
+        "linguagem": "Portugol",
+        "conteúdos": 47,
+        "bibliografia_básica": "25; 70; 71;",
+        "bibliografia_complementar": ""
+    },
+    {
+        "id": 2,
+        "instituição": "IFRN",
+        "campus": "Mossoró",
+        "modalidade": "SUBSEQUENTE",
+        "duração": 2,
+        "ano": 2011,
+        "disciplina": "Fundamentos de Lógica e Algorirtmos",
+        "área": "Núcleo Articulador",
+        "ano_oferta": 1,
+        "semestre": 1,
+        "horas": 80,
+        "linguagem": "Portugol",
+        "conteúdos": 47,
+        "bibliografia_básica": "25; 70; 71;",
+        "bibliografia_complementar": ""
+    },
+    {
+        "id": 3,
+        "instituição": "IFRN",
+        "campus": "Nova Cruz",
+        "modalidade": "SUBSEQUENTE",
+        "duração": 2,
+        "ano": 2011,
+        "disciplina": "Fundamentos de Lógica e Algorirtmos",
+        "área": "Núcleo Articulador",
+        "ano_oferta": 1,
+        "semestre": 1,
+        "horas": 80,
+        "linguagem": "Portugol",
+        "conteúdos": 47,
+        "bibliografia_básica": "25; 70; 71;",
+        "bibliografia_complementar": ""
+    }
+]

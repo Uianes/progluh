@@ -1,0 +1,17 @@
+{
+    "id": 1,
+    "instituição": "IFF",
+    "campus": "Bom Jesus do Itabapoana",
+    "modalidade": "CONCOMITANTE",
+    "duração": 2,
+    "ano": 2015,
+    "disciplina": "Introdução à Programação de Computadores",
+    "área": "",
+    "ano_oferta": 1,
+    "semestre": 1,
+    "horas": 80,
+    "linguagem": "",
+    "conteúdos": 5,
+    "bibliografia_básica": "7; 8; 14; 15; 16; 17; 18;",
+    "bibliografia_complementar": ""
+}

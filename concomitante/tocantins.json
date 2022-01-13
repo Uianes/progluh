@@ -1,0 +1,36 @@
+[
+    {
+        "id": 1,
+        "instituição": "IFTO",
+        "campus": "Lagoa da Confusão",
+        "modalidade": "CONCOMITANTE",
+        "duração": 1.5,
+        "ano": 2016,
+        "disciplina": "Introdução à lógica de programação ",
+        "área": "",
+        "ano_oferta": 1,
+        "semestre": 1,
+        "horas": 83.3,
+        "linguagem": "C",
+        "conteúdos": 19,
+        "bibliografia_básica": "30; 36; 37;",
+        "bibliografia_complementar": "14; 31; 51; 52; 53;"
+    },
+    {
+        "id": 2,
+        "instituição": "IFTO",
+        "campus": "Pedro Afonso",
+        "modalidade": "CONCOMITANTE",
+        "duração": 1.5,
+        "ano": 2018,
+        "disciplina": "Introdução à lógica de programação ",
+        "área": "",
+        "ano_oferta": 1,
+        "semestre": 1,
+        "horas": 120,
+        "linguagem": "",
+        "conteúdos": 20,
+        "bibliografia_básica": "8; 16; 38; 39;",
+        "bibliografia_complementar": "36; 54; 55; 56; 57;"
+    }
+]

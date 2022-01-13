@@ -1,0 +1,36 @@
+[
+    {
+        "id": 1,
+        "instituição": "IFAM",
+        "campus": "Manacapuru",
+        "modalidade": "SUBSEQUENTE",
+        "duração": 1.5,
+        "ano": 2015,
+        "disciplina": "Lógica de Programação - C",
+        "área": "Formação profissional geral e específica",
+        "ano_oferta": 1,
+        "semestre": 1,
+        "horas": 80,
+        "linguagem": "C",
+        "conteúdos": 21,
+        "bibliografia_básica": "40; 41; 42;",
+        "bibliografia_complementar": "16; 25; 58;"
+    },
+    {
+        "id": 2,
+        "instituição": "IFAM",
+        "campus": "Manaus Zona Leste",
+        "modalidade": "SUBSEQUENTE",
+        "duração": 1.5,
+        "ano": 2019,
+        "disciplina": "Algoritmos e Lógica de Programação",
+        "área": "Trabalho, Ciência, Tecnologia e Cultura (Núcleo Tecnológico)",
+        "ano_oferta": 1,
+        "semestre": 1,
+        "horas": 80,
+        "linguagem": "",
+        "conteúdos": 22,
+        "bibliografia_básica": "4; 8; 43;",
+        "bibliografia_complementar": "14; 19; 26; 55; 59;"
+    }
+]

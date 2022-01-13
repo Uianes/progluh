@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PROGLUH</title>
+    <!-- development version, includes helpful console warnings -->
+    <script src="https://cdn.jsdelivr.net/npm/vue@2/dist/vue.js"></script>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Noto+Sans&display=swap');
+    </style>
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <header>
+        <div id="brand">PROGLUH</div>
+    </header>
+    <main>
+        <nav id="links">
+            <a href="#">
+                <i class="material-icons" id="back">chevron_left</i>
+            </a>
+            <br>
+            <p id="title1">
+                SOBRE O ENSINO DE ALGORITMOS NOS INSTITUTOS FEDERAIS EDUCAÇÃO, CIÊNCIA E TECNOLOGIA
+            </p>
+        </nav>
+        <div id="texto1">
+            <p>O presente trabalho analisou XXX projetos pedagógicos dos cursos de X</p>
+            <br>
+            <div id="app">
+                <form method="POST">
+                    Tipo de curso: <input type="text" id="course_type" placeholder="Integrado">
+                    Unidade Federativa: <input type="text" id="UF" placeholder="Rio Grande do Sul">
+                    <button type="button" v-on:click="getData()">Pesquisar</button>
+                </form>
+                <div id="results">
+                    <table>
+                        <thead>
+                            <tr>
+                                <th>
+                                    Instituição
+                                </th>
+                                <th>
+                                    Campus
+                                </th>
+                                <th>
+                                    Modalidade
+                                </th>
+                                <th>
+                                    Duração do curso
+                                </th>
+                                <th>
+                                    Ano do PPC
+                                </th>
+                                <th>
+                                    Disciplina    
+                                </th>
+                                <th>
+                                    Ano de Oferta da Disciplina
+                                </th>
+                                <th>
+                                    Semestre
+                                </th>
+                                <th>
+                                    Horas da Disciplina
+                                </th>
+                                <th>
+                                    Linguagem identificada
+                                </th>
+                                <th>
+                                    Conteúdos
+                                </th>
+                                <th>
+                                    Bibliografia Básica
+                                </th>
+                                <th>
+                                    Bibliografia Complementar
+                                </th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr v-for="course in courses">
+                                <th>
+                                    {{course.instituição}}
+                                </th>
+                                <th>
+                                    {{course.campus}}
+                                </th>
+                                <th>
+                                    {{course.modalidade}}
+                                </th>
+                                <th>
+                                    {{course.duração}}
+                                </th>
+                                <th>
+                                    {{course.ano}}
+                                </th>
+                                <th>
+                                    {{course.disciplina}}
+                                </th>
+                                <th>
+                                    {{course.ano_oferta}}
+                                </th>
+                                <th>
+                                    {{course.semestre}}
+                                </th>
+                                <th>
+                                    {{course.horas}}
+                                </th>
+                                <th>
+                                    {{course.linguagem}}
+                                </th>
+                                <th>
+                                    {{course.conteúdos}}
+                                </th>
+                                <th>
+                                    {{course.bibliografia_básica}}
+                                </th>
+                                <th>
+                                    {{course.bibliografia_complementar}}
+                                </th>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+
+    </main>
+</body>
+
+</html>

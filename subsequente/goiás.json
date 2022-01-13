@@ -1,0 +1,17 @@
+    {
+        "id": 1,
+        "instituição": "IFGOIANO",
+        "campus": "Ceres",
+        "modalidade": "SUBSEQUENTE",
+        "duração": 1.5,
+        "ano": 2014,
+        "disciplina": "Lógica de Programação",
+        "área": "",
+        "ano_oferta": 1,
+        "semestre": 1,
+        "horas": 102,
+        "linguagem": "",
+        "conteúdos": 0,
+        "bibliografia_básica": "",
+        "bibliografia_complementar": ""
+    }

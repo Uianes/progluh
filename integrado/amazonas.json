@@ -1,0 +1,17 @@
+    {
+        "id": 1,
+        "instituição": "IFAM",
+        "campus": "Manacapuru",
+        "modalidade": "INTEGRADO",
+        "duração": 3,
+        "ano": 2017,
+        "disciplina": "Programação I",
+        "área": "Núcleo Politécnico",
+        "ano_oferta": 1,
+        "semestre": "Anual",
+        "horas": 120,
+        "linguagem": "Scratch; Portugol; C",
+        "conteúdos": 59,
+        "bibliografia_básica": "4; 16; 40; 86;",
+        "bibliografia_complementar": "21; 23; 25; 51; 96;"
+    }

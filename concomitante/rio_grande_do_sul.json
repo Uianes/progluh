@@ -1,0 +1,17 @@
+{
+    "id": 1,
+    "instituição": "IFRS",
+    "campus": "Erechim",
+    "modalidade": "CONCOMITANTE",
+    "duração": 3,
+    "ano": 2015,
+    "disciplina": "Algoritmos e Lógica de Programação",
+    "área": "",
+    "ano_oferta": 1,
+    "semestre": 1,
+    "horas": 72,
+    "linguagem": "",
+    "conteúdos": 10,
+    "bibliografia_básica": "1; 4; 23;",
+    "bibliografia_complementar": "30; 31; 32; 33; 34;"
+}

@@ -1,0 +1,17 @@
+    {
+        "id": 1,
+        "instituição": "IFSC",
+        "campus": "Florianópolis",
+        "modalidade": "SUBSEQUENTE",
+        "duração": 1.5,
+        "ano": 2008,
+        "disciplina": "Programação Básica",
+        "área": "",
+        "ano_oferta": 1,
+        "semestre": 1,
+        "horas": 80,
+        "linguagem": "",
+        "conteúdos": 48,
+        "bibliografia_básica": "4; 8; 20; 72; 73;",
+        "bibliografia_complementar": ""
+    }

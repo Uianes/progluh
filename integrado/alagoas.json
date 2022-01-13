@@ -1,0 +1,17 @@
+    {
+        "id": 1,
+        "instituição": "IFAL",
+        "campus": "Palmeira dos Índios",
+        "modalidade": "INTEGRADO",
+        "duração": 4,
+        "ano": 2016,
+        "disciplina": "Introdução à Programação",
+        "área": "Núcleo Profissional",
+        "ano_oferta": 1,
+        "semestre": "Anual",
+        "horas": 160,
+        "linguagem": "",
+        "conteúdos": 58,
+        "bibliografia_básica": "8; 38; 82; 83; 84;",
+        "bibliografia_complementar": ""
+    }

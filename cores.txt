@@ -1,0 +1,20 @@
+/* Color Theme Swatches in Hex */
+.Set-of-milkshakes-decorated-with-fruits-of-various-flavors-isolated-1-hex { color: #AEBF2C; }
+.Set-of-milkshakes-decorated-with-fruits-of-various-flavors-isolated-2-hex { color: #D9B36C; }
+.Set-of-milkshakes-decorated-with-fruits-of-various-flavors-isolated-3-hex { color: #F2811D; }
+.Set-of-milkshakes-decorated-with-fruits-of-various-flavors-isolated-4-hex { color: #D94E41; }
+.Set-of-milkshakes-decorated-with-fruits-of-various-flavors-isolated-5-hex { color: #F2F2F2; }
+
+/* Color Theme Swatches in RGBA */
+.Set-of-milkshakes-decorated-with-fruits-of-various-flavors-isolated-1-rgba { color: rgba(174, 191, 43, 1); }
+.Set-of-milkshakes-decorated-with-fruits-of-various-flavors-isolated-2-rgba { color: rgba(216, 178, 108, 1); }
+.Set-of-milkshakes-decorated-with-fruits-of-various-flavors-isolated-3-rgba { color: rgba(242, 128, 29, 1); }
+.Set-of-milkshakes-decorated-with-fruits-of-various-flavors-isolated-4-rgba { color: rgba(216, 77, 65, 1); }
+.Set-of-milkshakes-decorated-with-fruits-of-various-flavors-isolated-5-rgba { color: rgba(242, 242, 242, 1); }
+
+/* Color Theme Swatches in HSLA */
+.Set-of-milkshakes-decorated-with-fruits-of-various-flavors-isolated-1-hsla { color: hsla(67, 62, 46, 1); }
+.Set-of-milkshakes-decorated-with-fruits-of-various-flavors-isolated-2-hsla { color: hsla(39, 58, 63, 1); }
+.Set-of-milkshakes-decorated-with-fruits-of-various-flavors-isolated-3-hsla { color: hsla(28, 89, 53, 1); }
+.Set-of-milkshakes-decorated-with-fruits-of-various-flavors-isolated-4-hsla { color: hsla(5, 66, 55, 1); }
+.Set-of-milkshakes-decorated-with-fruits-of-various-flavors-isolated-5-hsla { color: hsla(0, 0, 95, 1); }

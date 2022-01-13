@@ -1,0 +1,17 @@
+    {
+        "id": 1,
+        "instituição": "IFS",
+        "campus": "Aracaju",
+        "modalidade": "INTEGRADO",
+        "duração": 3,
+        "ano": 2014,
+        "disciplina": "Programação I",
+        "área": "",
+        "ano_oferta": 1,
+        "semestre": "Anual",
+        "horas": 240,
+        "linguagem": "",
+        "conteúdos": 151,
+        "bibliografia_básica": "7; 39; 128;",
+        "bibliografia_complementar": "104; 108; 132; 186; 187; "
+    }

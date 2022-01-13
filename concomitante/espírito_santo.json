@@ -1,0 +1,17 @@
+{
+    "id": 1,
+    "instituição": "IFES",
+    "campus": "Serra",
+    "modalidade": "CONCOMITANTE",
+    "duração": 2,
+    "ano": 2008,
+    "disciplina": "Lógica de Programação",
+    "área": "",
+    "ano_oferta": 1,
+    "semestre": 1,
+    "horas": 60,
+    "linguagem": "",
+    "conteúdos": 4,
+    "bibliografia_básica": "",
+    "bibliografia_complementar": ""
+}

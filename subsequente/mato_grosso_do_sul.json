@@ -1,0 +1,36 @@
+[
+    {
+        "id": 1,
+        "instituição": "IFMS",
+        "campus": "Aquidauana",
+        "modalidade": "SUBSEQUENTE",
+        "duração": 1.5,
+        "ano": 2016,
+        "disciplina": "Algoritmos",
+        "área": "Formação Específica",
+        "ano_oferta": 1,
+        "semestre": "Anual",
+        "horas": 160,
+        "linguagem": "",
+        "conteúdos": 41,
+        "bibliografia_básica": "1; 7; 8; 14; 16; 66;",
+        "bibliografia_complementar": "16; 17; 31; 49; 77; 78;"
+    },
+    {
+        "id": 2,
+        "instituição": "IFMS",
+        "campus": "Campo Grande",
+        "modalidade": "SUBSEQUENTE",
+        "duração": 1.5,
+        "ano": 2016,
+        "disciplina": "Algoritmos",
+        "área": "Formação Específica",
+        "ano_oferta": 1,
+        "semestre": "Anual",
+        "horas": 160,
+        "linguagem": "",
+        "conteúdos": 41,
+        "bibliografia_básica": "1; 7; 8; 14; 16; 66;",
+        "bibliografia_complementar": "16; 17; 31; 49; 77; 78;"
+    }
+]

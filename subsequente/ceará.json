@@ -1,0 +1,36 @@
+[
+    {
+        "id": 1,
+        "instituição": "IFCE",
+        "campus": "Acopiara",
+        "modalidade": "SUBSEQUENTE",
+        "duração": 1.5,
+        "ano": 2018,
+        "disciplina": "Lógica e Linguagem de Programação",
+        "área": "Teoria da Computação",
+        "ano_oferta": 1,
+        "semestre": 1,
+        "horas": 80,
+        "linguagem": "",
+        "conteúdos": 0,
+        "bibliografia_básica": "",
+        "bibliografia_complementar": ""
+    },
+    {
+        "id": 2,
+        "instituição": "IFCE",
+        "campus": "Canindé",
+        "modalidade": "SUBSEQUENTE",
+        "duração": 1.5,
+        "ano": 2017,
+        "disciplina": "Lógica e Linguagem de Programação",
+        "área": "Métodos e técnicas de computação",
+        "ano_oferta": 1,
+        "semestre": 1,
+        "horas": 80,
+        "linguagem": "",
+        "conteúdos": 30,
+        "bibliografia_básica": "7; 38; 54;",
+        "bibliografia_complementar": "10; 14; 16; 33;"
+    }
+]

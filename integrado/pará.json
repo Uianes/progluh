@@ -1,0 +1,17 @@
+{
+    "id": 1,
+    "instituição": "IFPA",
+    "campus": "Marabá Industrial",
+    "modalidade": "INTEGRADO",
+    "duração": 3,
+    "ano": 2018,
+    "disciplina": "Lógica de Programação",
+    "área": "Matemática e suas tecnologias",
+    "ano_oferta": 1,
+    "semestre": "Anual",
+    "horas": 100,
+    "linguagem": "",
+    "conteúdos": 116,
+    "bibliografia_básica": "4; 8; 69;",
+    "bibliografia_complementar": "53; 81; 82;"
+}

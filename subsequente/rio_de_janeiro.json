@@ -1,0 +1,36 @@
+[
+    {
+        "id": 1,
+        "instituição": "IFF",
+        "campus": "Macaé",
+        "modalidade": "SUBSEQUENTE",
+        "duração": 2,
+        "ano": 0,
+        "disciplina": "Algoritmo e Técnicas de Programação I",
+        "área": "",
+        "ano_oferta": 1,
+        "semestre": 1,
+        "horas": 80,
+        "linguagem": "C",
+        "conteúdos": 31,
+        "bibliografia_básica": "2; 47; 48;",
+        "bibliografia_complementar": "89; 56; 65; 66;"
+    },
+    {
+        "id": 2,
+        "instituição": "IFF",
+        "campus": "Macaé",
+        "modalidade": "SUBSEQUENTE",
+        "duração": 2,
+        "ano": 0,
+        "disciplina": "Algoritmo e Técnicas de Programação II",
+        "área": "",
+        "ano_oferta": 1,
+        "semestre": 2,
+        "horas": 80,
+        "linguagem": "C",
+        "conteúdos": 32,
+        "bibliografia_básica": "47; 48;",
+        "bibliografia_complementar": "89; 56; 65; 66;"
+    }
+]

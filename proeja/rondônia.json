@@ -1,0 +1,17 @@
+{
+   "id": 1,
+   "instituição": "IFRO",
+   "campus": "Guajará-Mirim",
+   "modalidade": "PROEJA",
+   "duração": 2.5,
+   "ano": 2018,
+   "disciplina": "Lógica de Programação I",
+   "área": "Núcleo Profissionalizante",
+   "ano_oferta": 1,
+   "semestre": 2,
+   "horas": 80,
+   "linguagem": "Metalinguagem",
+   "conteúdos": 2,
+   "bibliografia_básica": "4; 5; 6;",
+   "bibliografia_complementar": "6; 7; 8; 9; 10;"
+}

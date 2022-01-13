@@ -1,0 +1,17 @@
+{
+    "id": 1,
+    "instituição": "IFMA",
+    "campus": "Rosário",
+    "modalidade": "CONCOMITANTE",
+    "duração": 2,
+    "ano": 2015,
+    "disciplina": "Introdução à Programação",
+    "área": "",
+    "ano_oferta": 1,
+    "semestre": 2,
+    "horas": 80,
+    "linguagem": "C",
+    "conteúdos": 8,
+    "bibliografia_básica": "4; 7; 9; 21; 22; 23;",
+    "bibliografia_complementar": "19; 20; 21; 22; 23; 24;"
+}

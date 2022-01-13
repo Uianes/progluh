@@ -1,0 +1,36 @@
+[
+    {
+        "id": 1,
+        "instituição": "IFGOIANO",
+        "campus": "Campos Belos",
+        "modalidade": "CONCOMITANTE",
+        "duração": 1.5,
+        "ano": 2014,
+        "disciplina": "Lógica de Programação",
+        "área": "Área Específica de Informática",
+        "ano_oferta": 1,
+        "semestre": 1,
+        "horas": 110,
+        "linguagem": "",
+        "conteúdos": 6,
+        "bibliografia_básica": "7; 8; 14;",
+        "bibliografia_complementar": "14; 16; 17;"
+    },
+    {
+        "id": 2,
+        "instituição": "IFGOIANO",
+        "campus": "Rio Verde",
+        "modalidade": "CONCOMITANTE",
+        "duração": 2,
+        "ano": 2015,
+        "disciplina": "Lógica de Programação",
+        "área": "",
+        "ano_oferta": 1,
+        "semestre": 1,
+        "horas": 90,
+        "linguagem": "Metalinguagem",
+        "conteúdos": 7,
+        "bibliografia_básica": "8; 16; 20;",
+        "bibliografia_complementar": "8; 10; 18;"
+    }
+]

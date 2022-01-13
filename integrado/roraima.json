@@ -1,0 +1,17 @@
+    {
+        "id": 1,
+        "instituição": "IFRR",
+        "campus": "Boa Vista",
+        "modalidade": "INTEGRADO",
+        "duração": 3,
+        "ano": 2018,
+        "disciplina": "Algoritmos e Lógica de Programação",
+        "área": "Parte Profissional",
+        "ano_oferta": 1,
+        "semestre": "Anual",
+        "horas": 100,
+        "linguagem": "PASCAL",
+        "conteúdos": 145,
+        "bibliografia_básica": "4; 52; 79;",
+        "bibliografia_complementar": "1; 14; 31; 107; 137;"
+    }

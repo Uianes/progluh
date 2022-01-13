@@ -1,0 +1,17 @@
+    {
+        "id": 1,
+        "instituição": "IFAP",
+        "campus": "Laranjal do Sul",
+        "modalidade": "SUBSEQUENTE",
+        "duração": 1.5,
+        "ano": 2019,
+        "disciplina": "Introdução à Programação",
+        "área": "",
+        "ano_oferta": 1,
+        "semestre": 2,
+        "horas": 120,
+        "linguagem": "C",
+        "conteúdos": 23,
+        "bibliografia_básica": "4; 8; 25;",
+        "bibliografia_complementar": "6; 14; 10; 31; 60;"
+    }
