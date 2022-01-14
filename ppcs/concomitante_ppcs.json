@@ -50,7 +50,7 @@
     {
         "id": 7,
         "instituição": "IFCE",
-        "campus": "Nova Morada",
+        "campus": "Morada Nova",
         "tipo": "Concomitante",
         "status": "https://ifce.edu.br/moradanova/campus_morada/cursos/tecnicos/concomitantes/informatica",
         "cor": "green"
@@ -118,6 +118,14 @@
         "tipo": "Concomitante",
         "status": "Não há o PPC no site",
         "cor": "red"
+    },
+    {
+        "id": 16,
+        "instituição": "IFGOIANO",
+        "campus": "Rio Verde",
+        "tipo": "Concomitante",
+        "status": "https://www.ifgoiano.edu.br/home/images/RV/2018/Junho/PPC-Informtica-.pdf",
+        "cor": "green"
     },
     {
         "id": 17,
