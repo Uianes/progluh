@@ -9,58 +9,58 @@
     },    
     {
         "id": 2,
-        "instituição": "IFB",
-        "campus": "Gama",
-        "tipo": "Concomitante",
-        "status": "Site Indisponível",
+        "instituição": "IFBAIANO",
+        "campus": "Catu",
+        "tipo": "PROEJA",
+        "status": "Não há o PPC no site",
         "cor": "red"
     },
     {
         "id": 3,
-        "instituição": "IFC",
-        "campus": "Brusque",
-        "tipo": "Concomitante",
-        "status": "Não existem informações sobre o curso cadastradas no site",
-        "cor": "red"
+        "instituição": "IFMA",
+        "campus": "Grajaú",
+        "tipo": "PROEJA",
+        "status": "https://portal.ifma.edu.br/documentos/?d=KyMzdWRdMEtRIkMmUENcRX5oc0B6RHxGZFdEQUNHVXNTRVBBUkFET1JASUZNQTRmY2U5NTU1NTU1ZTNmZmMzZDZmNWNmZDA0YmUwZlt8XTAwOV9QUk9FTl9SRUlULnBkZg=",
+        "cor": "green"
     },
     {
         "id": 4,
-        "instituição": "IFCE",
-        "campus": "Aracati",
-        "tipo": "Concomitante",
-        "status": "https://ifce.edu.br/aracati/menu/cursos-em-aracati-2/tecnicos/informatica/pdfs/ppc_informatica_reformulado_v5.pdf",
-        "cor": "green"
+        "instituição": "IFPA",
+        "campus": "Óbidos",
+        "tipo": "PROEJA",
+        "status": "Nome do curso está trocado na base de dados, nome certo: Manutenção e suporte em Informática",
+        "cor": "gray"
     },
     {
         "id": 5,
-        "instituição": "IFCE",
-        "campus": "Maracanaú",
-        "tipo": "Concomitante",
-        "status": "Não há o PPC no site",
-        "cor": "red"
+        "instituição": "IFPR",
+        "campus": "União da Vitória",
+        "tipo": "PROEJA",
+        "status": "Não existem informações sobre o curso cadastradas no site",
+        "cor": "gray"
     },
     {
         "id": 6,
-        "instituição": "IFCE",
-        "campus": "Maranguape",
-        "tipo": "Concomitante",
-        "status": "Não existem informações sobre o curso cadastradas no site",
-        "cor": "red"
+        "instituição": "IFRO",
+        "campus": "Guajará-Mirim",
+        "tipo": "PROEJA",
+        "status": "https://portal.ifro.edu.br/images/Campi/Guajara_Mirim/Documentos/EJA_-_INFORM%C3%81TICA.pdf",
+        "cor": "green"
     },
     {
         "id": 7,
-        "instituição": "IFCE",
-        "campus": "Nova Morada",
-        "tipo": "Concomitante",
-        "status": "https://ifce.edu.br/moradanova/campus_morada/cursos/tecnicos/concomitantes/informatica",
-        "cor": "green"
+        "instituição": "IFSERTÃO-PE",
+        "campus": "Petrolina",
+        "tipo": "PROEJA",
+        "status": "Nome do curso está trocado na base de dados, nome certo: Operador de Computador",
+        "cor": "gray"
     }, 
     {
         "id": 8,
-        "instituição": "IFES",
-        "campus": "Cachoeiro de Itapemirim",
-        "tipo": "Concomitante",
-        "status": "Não há o PPC no site",
-        "cor": "red"
+        "instituição": "IFSP",
+        "campus": "Cubatão",
+        "tipo": "PROEJA",
+        "status": "Nome do curso está trocado na base de dados, nome certo: Informática Básica",
+        "cor": "gray"
     }
 ]
