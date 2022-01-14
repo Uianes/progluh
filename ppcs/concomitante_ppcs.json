@@ -5,7 +5,7 @@
         "campus": "Santana",
         "tipo": "Concomitante",
         "status": "Não existem informações sobre o curso cadastradas no site",
-        "cor": "red"
+        "cor": "gray"
     },    
     {
         "id": 2,
@@ -21,7 +21,7 @@
         "campus": "Brusque",
         "tipo": "Concomitante",
         "status": "Não existem informações sobre o curso cadastradas no site",
-        "cor": "red"
+        "cor": "gray"
     },
     {
         "id": 4,
@@ -45,7 +45,7 @@
         "campus": "Maranguape",
         "tipo": "Concomitante",
         "status": "Não existem informações sobre o curso cadastradas no site",
-        "cor": "red"
+        "cor": "gray"
     },
     {
         "id": 7,
@@ -266,9 +266,129 @@
     {
         "id": 35,
         "instituição": "IFSP",
-        "campus": "Lages",
+        "campus": "Araraquara",
         "tipo": "Concomitante",
-        "status": "Nome do curso está trocado na base de dados, nome certo: Informática para Internet",
+        "status": "https://www.arq.ifsp.edu.br/images/arquivos_pdf/ensino/tecnico_informatica_concomitante/Projeto_Pedagogico_Tecnico_Informatica_Concomitante_Novo.pdf",
+        "cor": "green"
+    },    
+    {
+        "id": 36,
+        "instituição": "IFSP",
+        "campus": "Campinas",
+        "tipo": "Concomitante",
+        "status": "https://drive.ifsp.edu.br/s/pORYcJL1ClM0uzO#pdfviewer",
+        "cor": "green"
+    },
+    {
+        "id": 37,
+        "instituição": "IFSP",
+        "campus": "Campos do Jordão",
+        "tipo": "Concomitante",
+        "status": "https://www.ifspcjo.edu.br/component/phocadownload/file/1131-ppc-tcnico-em-informtica",
+        "cor": "green"
+    },
+    {
+        "id": 38,
+        "instituição": "IFSP",
+        "campus": "Salto",
+        "tipo": "Concomitante",
+        "status": "https://slt.ifsp.edu.br/images/INF-Projeto_Tecnico_Informatica-Concomitante_Subsequente.pdf",
+        "cor": "green"
+    },
+    {
+        "id": 39,
+        "instituição": "IFSP",
+        "campus": "Hortolândia",
+        "tipo": "Concomitante",
+        "status": "Nome do curso está trocado na base de dados, nome certo: Manutenção e suporte em Informática",
         "cor": "gray"
-    }    
+    },
+    {
+        "id": 40,
+        "instituição": "IFSP",
+        "campus": "Itapetininga",
+        "tipo": "Concomitante",
+        "status": "https://itp.ifsp.edu.br/files/MSI/ITP_Tecnico_em_Informatica_vFinal.pdf",
+        "cor": "green"
+    },
+    {
+        "id": 41,
+        "instituição": "IFSUDESTE-MG",
+        "campus": "Avançado Bom Sucesso",
+        "tipo": "Concomitante",
+        "status": "Não há o PPC no site",
+        "cor": "red"
+    },
+    {
+        "id": 42,
+        "instituição": "IFSUDESTE-MG",
+        "campus": "Avançado Cataguases",
+        "tipo": "Concomitante",
+        "status": "https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjY-oCSksDvA+A1:D51hUQILkGHVuBADEQFjACegQIFBAD&url=https%3A%2F%2Fsig.ifsudestemg.edu.br%2Fsigaa%2FverProducao%3FidProducao%3D184366%26key%3Db1f3ab861c7d7167ff132cd9685c48d4&usg=AOvVaw1uHj5jO2Wk6F-npK0X1jeO",
+        "cor": "green"
+    },
+    {
+        "id": 43,
+        "instituição": "IFSUDESTE-MG",
+        "campus": "Barbacena",
+        "tipo": "Concomitante",
+        "status": "Não há o PPC no site",
+        "cor": "red"
+    },
+    {
+        "id": 44,
+        "instituição": "IFSUDESTE-MG",
+        "campus": "Juiz de Fora",
+        "tipo": "Concomitante",
+        "status": "Não existem informações sobre o curso cadastradas no site",
+        "cor": "gray"
+    },
+    {
+        "id": 45,
+        "instituição": "IFSUDESTE-MG",
+        "campus": "Manhuaçu",
+        "tipo": "Concomitante",
+        "status": "Não há o PPC no site",
+        "cor": "red"
+    },
+    {
+        "id": 46,
+        "instituição": "IFTM",
+        "campus": "Avançado Campina Verde",
+        "tipo": "Concomitante",
+        "status": "https://iftm.edu.br/campinaverde/cursos/tecnico-concomitante-presencial/informatica/ppc/",
+        "cor": "green"
+    },
+    {
+        "id": 47,
+        "instituição": "IFTM",
+        "campus": "Patrocínio",
+        "tipo": "Concomitante",
+        "status": "https://iftm.edu.br/patrocinio/cursos/tecnico-concomitante-presencial/informatica-ibia/ppc/",
+        "cor": "green"
+    },
+    {
+        "id": 48,
+        "instituição": "IFTO",
+        "campus": "Avançado Formoso do Araguaia",
+        "tipo": "Concomitante",
+        "status": "Não existem informações sobre o curso cadastradas no site",
+        "cor": "gray"
+    },
+    {
+        "id": 49,
+        "instituição": "IFTO",
+        "campus": "Avançado Lagoa da Confusão",
+        "tipo": "Concomitante",
+        "status": "http://www.ifto.edu.br/ifto/colegiados/consup/documentos-aprovados/ppc/campus-avancado-lagoa-da-confusao/tecnico-em-informatica-concomitante-ao-ensino-medio/ppc-tecnico-informatica-concomitante-medio-campus-avancado-lagoadaconfusao-1.pdf/view",
+        "cor": "green"
+    },
+    {
+        "id": 50,
+        "instituição": "IFTO",
+        "campus": "Avançado Pedro Afonso",
+        "tipo": "Concomitante",
+        "status": "http://www.ifto.edu.br/ifto/colegiados/consup/documentos-aprovados/ppc/campus-avancado-pedro-afonso/tecnico-em-informatica-concomitante-ao-ensino-medio/ppc-tecnico-em-informatica-concomitante-campus-avancado-pedro-afonso.pdf/view",
+        "cor": "green"
+    }
 ]
