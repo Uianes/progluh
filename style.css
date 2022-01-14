@@ -7,7 +7,7 @@
 #brand{
     font-size: x-large;
     font-weight: bold;
-    position: fixed;
+    position: absolute;
     padding-left: 5vw;
     padding-top: 3vh;
     padding-bottom: 3vh;
@@ -72,7 +72,7 @@ input{
     padding: 8px;
 }
 #author{
-    position: fixed;
+    position: absolute;
     left: 60vw;
     font-weight: bold;
     font-size: medium;
