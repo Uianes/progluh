@@ -25,14 +25,21 @@
     color: #F2811D;
     font-size: 40px;
 }
-#title1{
+.title1{
     padding-top: 5vh;
     padding-left: 10vw;
     font-weight: bold;
     font-size: x-large;
 }
-#texto1{
-    width: 50%;
+.title2{
+    padding-top: 5vh;
+    padding-left: 10vw;
+    font-weight: bold;
+    font-size: medium;
+}
+.text1{
+    width: 80%;
+    text-justify: inter-word;
     padding-top: 2vh;
     margin-left: 10vw;
     padding-left: 7vw;
@@ -57,4 +64,10 @@ input{
     width: 100%;
     max-width: 180px;
     height: 53px;
+}
+
+#table, th, td{
+    width: 80vw;
+    border: 1px solid black;
+    padding: 8px;
 }

@@ -5,9 +5,8 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="utf-8" />
     <title>PROGLUH</title>
-    <!-- development version, includes helpful console warnings -->
-    <script src="https://cdn.jsdelivr.net/npm/vue@2/dist/vue.js"></script>
     <style>
         @import url('https://fonts.googleapis.com/css2?family=Noto+Sans&display=swap');
     </style>
@@ -25,12 +24,156 @@
                 <i class="material-icons" id="back">chevron_left</i>
             </a>
             <br>
-            <p id="title1">
+            <p class="title1">
                 SOBRE O ENSINO DE ALGORITMOS NOS INSTITUTOS FEDERAIS EDUCAÇÃO, CIÊNCIA E TECNOLOGIA
             </p>
         </nav>
-        <div id="texto1">
-            <p>O presente trabalho analisou XXX projetos pedagógicos dos cursos de X</p>
+        <div class="text1">
+            <p>
+                O presente estudo utilizou como base os dados do ano de 2019 (PNP 2020 - ANO BASE 2019), da plataforma
+                Nilo Peçanha.
+                <br>
+                <br>
+                A plataforma Nilo Peçanha fornece dados educacionais sobre as Instituições de Ensino da Rede Federal de
+                Educação, Ciência e Tecnologia.
+                <br>
+                <br>
+                Link para acesso: <a href="http://plataformanilopecanha.mec.gov.br" target="_blank">Clique aqui</a>
+                <br>
+                <br>
+                A metodologia de levantamento de dados consistiu em acessar o PNP 2020 - Ano base 2019, na aba: 1.2 Tipo
+                de Curso.
+                <br>
+                Padrões de busca pelos dados:
+            <ul>
+                <li>
+                    Região: Tudo
+                </li>
+                <li>
+                    UF: Tudo
+                </li>
+                <li>
+                    Município: Tudo
+                </li>
+                <li>
+                    Organização Acadêmica: Instituto Federal
+                </li>
+                <li>
+                    Instituição: Tudo
+                </li>
+                <li>
+                    Unidade de Ensino: Tudo
+                </li>
+                <li>
+                    Tipo de Curso: Técnico
+                </li>
+                <li>
+                    Tipo de oferta: Tudo
+                </li>
+                <li>
+                    Nome Curso: Técnico em Informática
+                </li>
+                <li>
+                    Modalidade de Ensino: Tudo
+                </li>
+                <li>
+                    Turno: Tudo
+                </li>
+                <li>
+                    Eixo Tecnológico: Tudo
+                </li>
+                <li>
+                    Subeixo Tecnológico: Informática
+                </li>
+                <li>
+                    Fonte de Financiamento: Recursos Orçamentários
+                </li>
+            </ul>
+            <br>
+            <small>Considerando a replicabilidade do estudo científico, é importante que os dados sejam preenchidos da
+                mesma forma em uma futura busca.</small>
+            <br>
+            <br>
+            Os resultados da busca sobre os cursos técnicos em Informática retornaram os seguintes valores:
+            </p>
+            <table>
+                <thead>
+                    <tr>
+                        <th>
+                            Unidades<small>*</small>
+                        </th>
+                        <th>
+                            Cursos<small>**</small>
+                        </th>
+                        <th>
+                            Matrículas
+                        </th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <th>
+                            308
+                        </th>
+                        <th>
+                            583
+                        </th>
+                        <th>
+                            51.526
+                        </th>
+                    </tr>
+                </tbody>
+            </table>
+            <small>
+                * Corresponde ao número de <i>Campi</i> dos Institutos Federais ao Total.
+                <br>
+                ** Corresponde ao número total de Cursos Técnicos em Informática ofertados.
+            </small>
+            <br>
+            <br>
+            <table>
+                <thead>
+                    <tr>
+                        <th>
+                            Ingressantes
+                        </th>
+                        <th>
+                            Concluintes
+                        </th>
+                        <th>
+                            Vagas
+                        </th>
+                        <th>
+                            Inscritos<small>***</small>
+                        </th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <th>
+                            16.597
+                        </th>
+                        <th>
+                            8.669
+                        </th>
+                        <th>
+                            17.168
+                        </th>
+                        <th>
+                            82.354
+                        </th>
+                    </tr>
+                </tbody>
+            </table>
+            <small>
+                *** Corresponde ao número total de inscritos nos processos seletivos anuais das instituições.
+            </small>
+            <p class="text1">
+                Fonte dos dados:
+            </p>
+            <br>
+            <br>
+            
             <br>
             <div id="app">
                 <form method="POST">
@@ -58,7 +201,7 @@
                                     Ano do PPC
                                 </th>
                                 <th>
-                                    Disciplina    
+                                    Disciplina
                                 </th>
                                 <th>
                                     Ano de Oferta da Disciplina
