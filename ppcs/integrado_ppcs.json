@@ -1,0 +1,2050 @@
+[
+    {
+        "id": 1,
+        "instituição": "IFAC",
+        "campus": "Rio Branco",
+        "tipo": "Integrado",
+        "status": "Não há o PPC no site",
+        "cor": "red"
+    },    
+    {
+        "id": 2,
+        "instituição": "IFAC",
+        "campus": "Sena Madureira",
+        "tipo": "Integrado",
+        "status": "Não há o PPC no site",
+        "cor": "red"
+    },
+    {
+        "id": 3,
+        "instituição": "IFAL",
+        "campus": "Arapiraca",
+        "tipo": "Integrado",
+        "status": "Não há o PPC no site",
+        "cor": "red"
+    },
+    {
+        "id": 4,
+        "instituição": "IFAL",
+        "campus": "Maceió",
+        "tipo": "Integrado",
+        "status": "Não há o PPC no site",
+        "cor": "red"
+    },
+    {
+        "id": 5,
+        "instituição": "IFAL",
+        "campus": "Palmeira  dos Índios",
+        "tipo": "Integrado",
+        "status": "https://www2.ifal.edu.br/campus/palmeira/ensino/arquivos/PLANODOINFORMATICAPALMEIRADOSINDIOSREVISADOPROEN11052016.pdf",
+        "cor": "green"
+    },
+    {
+        "id": 6,
+        "instituição": "IFAM",
+        "campus": "Avançado Manacapuru",
+        "tipo": "Integrado",
+        "status": "http://www2.ifam.edu.br/campus/manacapuru/arquivos/0000002478-ppc-informatica-na-forma-integrada-2017-cam.pdf",
+        "cor": "green"
+    },
+    {
+        "id": 7,
+        "instituição": "IFAM",
+        "campus": "Coari",
+        "tipo": "Integrado",
+        "status": "Não há o PPC no site",
+        "cor": "red"
+    }, 
+    {
+        "id": 8,
+        "instituição": "IFAM",
+        "campus": "Eirunepé",
+        "tipo": "Integrado",
+        "status": "Não existem informações sobre o curso cadastradas no site",
+        "cor": "gray"
+    },
+    {
+        "id": 9,
+        "instituição": "IFAM",
+        "campus": "Humaitá",
+        "tipo": "Integrado",
+        "status": "Não há o PPC no site",
+        "cor": "red"
+    },
+    {
+        "id": 10,
+        "instituição": "IFAM",
+        "campus": "Itacoatiara",
+        "tipo": "Integrado",
+        "status": "Não há o PPC no site",
+        "cor": "red"
+    },
+    {
+        "id": 11,
+        "instituição": "IFAM",
+        "campus": "Lábrea",
+        "tipo": "Integrado",
+        "status": "Não há o PPC no site",
+        "cor": "red"
+    },
+    {
+        "id": 12,
+        "instituição": "IFAM",
+        "campus": "Manaus Centro",
+        "tipo": "Integrado",
+        "status": "Não há o PPC no site",
+        "cor": "red"
+    },
+    {
+        "id": 13,
+        "instituição": "IFAM",
+        "campus": "Maués",
+        "tipo": "Integrado",
+        "status": "Não há o PPC no site",
+        "cor": "red"
+    },
+    {
+        "id": 14,
+        "instituição": "IFAM",
+        "campus": "Parintins",
+        "tipo": "Integrado",
+        "status": "Não há o PPC no site",
+        "cor": "red"
+    },
+    {
+        "id": 15,
+        "instituição": "IFAM",
+        "campus": "São Gabriel da Cachoeira",
+        "tipo": "Integrado",
+        "status": "Não há o PPC no site",
+        "cor": "red"
+    },
+    {
+        "id": 16,
+        "instituição": "IFAM",
+        "campus": "Tabatinga",
+        "tipo": "Integrado",
+        "status": "Não há o PPC no site",
+        "cor": "red"
+    },
+    {
+        "id": 17,
+        "instituição": "IFAM",
+        "campus": "Tefé",
+        "tipo": "Integrado",
+        "status": "Não existem informações sobre o curso cadastradas no site",
+        "cor": "gray"
+    },
+    {
+        "id": 18,
+        "instituição": "IFAP",
+        "campus": "Laranjal do Jari",
+        "tipo": "Integrado",
+        "status": "https://laranjal.ifap.edu.br/index.php/outros/item/download/500_1c165d8db84ff2534f57c12325c8f370",
+        "cor": "green"
+    },
+    {
+        "id": 19,
+        "instituição": "IFB",
+        "campus": "Brasília",
+        "tipo": "Integrado",
+        "status": "https://www.ifb.edu.br/attachments/article/6397/Plano%20de%20Curso%20do%20Ensino%20Médio%20Integrado-Informatica-Readqua.pdf",
+        "cor": "green"
+    },
+    {
+        "id": 20,
+        "instituição": "IFBA",
+        "campus": "Barreiras",
+        "tipo": "Integrado",
+        "status": "https://portal.ifba.edu.br/barreiras/paginas-menu-cursos/cursos/integrado/informatica/documentos/ppc-de-informtica-integrado-barreiras-verso-4-encaminhado-pela-proen-em-06-06-2016-matriz-3-anos.pdf",
+        "cor": "green"
+    },
+    {
+        "id": 21,
+        "instituição": "IFBA",
+        "campus": "Brumado",
+        "tipo": "Integrado",
+        "status": "Não há o PPC no site",
+        "cor": "red"
+    },
+    {
+        "id": 22,
+        "instituição": "IFBA",
+        "campus": "Camaçari",
+        "tipo": "Integrado",
+        "status": "https://portal.ifba.edu.br/camacari/ensino/cursos/copy_of_cursos/projetos-de-curso/2017_diren_projetodecursotiintegrado_05mai.pdf",
+        "cor": "green"
+    },
+    {
+        "id": 23,
+        "instituição": "IFBA",
+        "campus": "Euclides da Cunha",
+        "tipo": "Integrado",
+        "status": "https://portal.ifba.edu.br/euclides-da-cunha/documentos/diren/ppc/ppc-informatica-versao-final-relator.pdf",
+        "cor": "green"
+    },
+    {
+        "id": 24,
+        "instituição": "IFBA",
+        "campus": "Eunápolis",
+        "tipo": "Integrado",
+        "status": "https://portal.ifba.edu.br/eunapolis/textos-fixos-campus-eunapolis/documentos-ads/plano-de-curso-tecnico-integrado-em-informatica.pdf",
+        "cor": "green"
+    },
+    {
+        "id": 25,
+        "instituição": "IFBA",
+        "campus": "Ilhéus",
+        "tipo": "Integrado",
+        "status": "https://portal.ifba.edu.br/ilheus/cursos/tecnico-integrado/plano_de_curso_informatica_integrado.pdf",
+        "cor": "green"
+    },
+    {
+        "id": 26,
+        "instituição": "IFBA",
+        "campus": "Irecê",
+        "tipo": "Integrado",
+        "status": "https://portal.ifba.edu.br/irece/menu-ensino/matrizes-curriculares-cursos-tecnicos/ppctec-1.pdf",
+        "cor": "green"
+    },
+    {
+        "id": 27,
+        "instituição": "IFBA",
+        "campus": "Jacobina",
+        "tipo": "Integrado",
+        "status": "https://portal.ifba.edu.br/jacobina/documentos/PLANODECURSOINTEGRADOINFORMTICA.pdf",
+        "cor": "green"
+    },
+    {
+        "id": 28,
+        "instituição": "IFBA",
+        "campus": "Jequié",
+        "tipo": "Integrado",
+        "status": "Não há o PPC no site",
+        "cor": "red"
+    },
+    {
+        "id": 29,
+        "instituição": "IFBA",
+        "campus": "Paulo Afonso",
+        "tipo": "Integrado",
+        "status": "Não há o PPC no site",
+        "cor": "red"
+    },
+    {
+        "id": 30,
+        "instituição": "IFBA",
+        "campus": "Porto Seguro",
+        "tipo": "Integrado",
+        "status": "https://portal.ifba.edu.br/portoseguro/files/ensino/cursos/integrados/informatica/plano-de-curso-tecnico-em-informatica.pdf",
+        "cor": "green"
+    },
+    {
+        "id": 31,
+        "instituição": "IFBA",
+        "campus": "Santo Amaro",
+        "tipo": "Integrado",
+        "status": "Não há o PPC no site",
+        "cor": "red"
+    },
+    {
+        "id": 32,
+        "instituição": "IFBA",
+        "campus": "Seabra",
+        "tipo": "Integrado",
+        "status": "Não há o PPC no site",
+        "cor": "red"
+    },
+    {
+        "id": 33,
+        "instituição": "IFBA",
+        "campus": "Valença Tento",
+        "tipo": "Integrado",
+        "status": "Não há o PPC no site",
+        "cor": "red"
+    },
+    {
+        "id": 34,
+        "instituição": "IFBA",
+        "campus": "Vitória da Conquista",
+        "tipo": "Integrado",
+        "status": "https://portal.ifba.edu.br/conquista/capas-e-paginas-menu-cursos/Informtica.pdf",
+        "cor": "green"
+    },    
+    {
+        "id": 35,
+        "instituição": "IFBAIANO",
+        "campus": "Bom Jesus da Lapa",
+        "tipo": "Integrado",
+        "status": "https://www.ifbaiano.edu.br/unidades/lapa/files/2021/01/PPC-Alteracao-Curricular-Curso-Tecnico-Integrado-Informatica.pdf",
+        "cor": "green"
+    },
+    {
+        "id": 36,
+        "instituição": "IFBAIANO",
+        "campus": "Governador Mangabeira",
+        "tipo": "Integrado",
+        "status": "https://www.ifbaiano.edu.br/unidades/gmb/files/2016/12/MINUTA-PPC-Curso-Tecnico-Integrado-em-Informatica-APROVADO-COSUPE-RESOLUCAO-N-05-2016.pdf",
+        "cor": "green"
+    },
+    {
+        "id": 37,
+        "instituição": "IFBAIANO",
+        "campus": "Uruçuca",
+        "tipo": "Integrado",
+        "status": "https://www.ifbaiano.edu.br/unidades/urucuca/files/2017/06/PPC-TECNICO-EM-INFORMATICA-INT_-AO-ENS-VERSAO-FINAL.pdf",
+        "cor": "green"
+    },
+    {
+        "id": 38,
+        "instituição": "IFC",
+        "campus": "Araquari",
+        "tipo": "Integrado",
+        "status": "Site indisponível",
+        "cor": "gray"
+    },
+    {
+        "id": 39,
+        "instituição": "IFC",
+        "campus": "Avançado Sombrio",
+        "tipo": "Integrado",
+        "status": "http://sombrio.ifc.edu.br/wp-content/uploads/2020/02/PPC-informática-2020_20122019.pdf",
+        "cor": "green"
+    },
+    {
+        "id": 40,
+        "instituição": "IFC",
+        "campus": "Blumenau",
+        "tipo": "Integrado",
+        "status": "http://blumenau.ifc.edu.br/medio-informatica/wp-content/uploads/sites/17/2016/02/PPC_2019.pdf",
+        "cor": "green"
+    },
+    {
+        "id": 41,
+        "instituição": "IFC",
+        "campus": "Brusque",
+        "tipo": "Integrado",
+        "status": "Não existem informações sobre o curso cadastradas no site",
+        "cor": "gray"
+    },
+    {
+        "id": 42,
+        "instituição": "IFC",
+        "campus": "Camboriú",
+        "tipo": "Integrado",
+        "status": "http://www.camboriu.ifc.edu.br/wp-content/uploads/2020/05/Novo-PPC-Informática-2020-Camboriú-v8.pdf",
+        "cor": "green"
+    },
+    {
+        "id": 43,
+        "instituição": "IFC",
+        "campus": "Fraiburgo",
+        "tipo": "Integrado",
+        "status": "http://informatica.fraiburgo.ifc.edu.br/wp-content/uploads/sites/13/2017/07/PPC-EMI-Informática-Fraiburgo-2019.v4.pdf",
+        "cor": "green"
+    },
+    {
+        "id": 44,
+        "instituição": "IFC",
+        "campus": "Ibirama",
+        "tipo": "Integrado",
+        "status": "http://ibirama.ifc.edu.br/wp-content/uploads/2020/10/PPC-Informática-Ibirama-turmas-2020.pdf",
+        "cor": "green"
+    },
+    {
+        "id": 45,
+        "instituição": "IFC",
+        "campus": "Rio do Sul",
+        "tipo": "Integrado",
+        "status": "Não existem informações sobre o curso cadastradas no site",
+        "cor": "gray"
+    },
+    {
+        "id": 46,
+        "instituição": "IFC",
+        "campus": "São Bento do Sul",
+        "tipo": "Integrado",
+        "status": "Não existem informações sobre o curso cadastradas no site",
+        "cor": "gray"
+    },
+    {
+        "id": 47,
+        "instituição": "IFC",
+        "campus": "Videira",
+        "tipo": "Integrado",
+        "status": "http://videira.ifc.edu.br/tecnico-informatica/ppc/",
+        "cor": "green"
+    },
+    {
+        "id": 48,
+        "instituição": "IFCE",
+        "campus": "Cedro",
+        "tipo": "Integrado",
+        "status": "https://ifce.edu.br/cedro/campus_cedro/cursos/tecnicos/integrados/informatica/pdf/projeto-pedagogico-tecnico-integrado-em-informatica.pdf/view",
+        "cor": "green"
+    },
+    {
+        "id": 49,
+        "instituição": "IFCE",
+        "campus": "Crato",
+        "tipo": "Integrado",
+        "status": "Nome do curso está trocado na base de dados, nome certo: Informática para Internet",
+        "cor": "gray"
+    },
+    {
+        "id": 50,
+        "instituição": "IFCE",
+        "campus": "Fortaleza",
+        "tipo": "Integrado",
+        "status": "https://ifce.edu.br/fortaleza/cursos/tecnicos/integrados/informatica/pdf/projeto-pedagogico-de-curso-informatica.pdf",
+        "cor": "green"
+    },
+    {
+        "id": 51,
+        "instituição": "IFCE",
+        "campus": "Iguatu",
+        "tipo": "Integrado",
+        "status": "https://ifce.edu.br/iguatu/menu/cursos/tecnicos/integrados/informatica/pdf/ppc-integradiinfo_2016",
+        "cor": "green"
+    },
+    {
+        "id": 52,
+        "instituição": "IFCE",
+        "campus": "Itapipoca",
+        "tipo": "Integrado",
+        "status": "https://ifce.edu.br/itapipoca/campus_itapipoca/cursos_/tecnicos/integrados_/integrado-em-informatica/ppc-e-atualizacoes/ppc_informatica_itapipoca_2019_versao-final_consup.pdf/view",
+        "cor": "green"
+    },
+    {
+        "id": 53,
+        "instituição": "IFCE",
+        "campus": "Umirim",
+        "tipo": "Integrado",
+        "status": "Não existem informações sobre o curso cadastradas no site",
+        "cor": "gray"
+    },
+    {
+        "id": 54,
+        "instituição": "IFES",
+        "campus": "Alegre",
+        "tipo": "Integrado",
+        "status": "https://alegre.ifes.edu.br/images/stories/Arquivos/PPC_Tecnico/Informatica/PPC_INFORMATICA_2018.pdf",
+        "cor": "green"
+    },
+    {
+        "id": 55,
+        "instituição": "IFES",
+        "campus": "Cachoeiro de Itapemirim",
+        "tipo": "Integrado",
+        "status": "Não há o PPC no site",
+        "cor": "red"
+    },
+    {
+        "id": 56,
+        "instituição": "IFES",
+        "campus": "Colatina",
+        "tipo": "Integrado",
+        "status": "Curso diz que é integrado, mas é subsequente",
+        "cor": "gray"
+    },
+    {
+        "id": 57,
+        "instituição": "IFF",
+        "campus": "Bom Jesus do Itabapoana",
+        "tipo": "Integrado",
+        "status": "Curso diz que é integrado, mas é concomitante",
+        "cor": "gray"
+    },
+    {
+        "id": 58,
+        "instituição": "IFF",
+        "campus": "Campos Centro",
+        "tipo": "Integrado",
+        "status": "http://cdd.iff.edu.br/documentos/resolucoes/2011/resolucao-no-16-de-04-de-agosto-de-2011",
+        "cor": "green"
+    },
+    {
+        "id": 59,
+        "instituição": "IFF",
+        "campus": "Itaperuna",
+        "tipo": "Integrado",
+        "status": "http://portal1.iff.edu.br/nossos-campi/itaperuna/cursos/tecnico-integrado/curso-tecnico-em-informatica/ppc-integrado-informatica/view",
+        "cor": "green"
+    },
+    {
+        "id": 60,
+        "instituição": "IFF",
+        "campus": "Quissamã",
+        "tipo": "Integrado",
+        "status": "http://cdd.iff.edu.br/documentos/resolucoes/2013/resolucao-n-01-2013",
+        "cor": "red"
+    },
+    {
+        "id": 61,
+        "instituição": "IFFARROUPILHA",
+        "campus": "Alegrete",
+        "tipo": "Integrado",
+        "status": "https://www.iffarroupilha.edu.br/component/k2/attachments/download/19344/11a893291e730946e365038d18a442f7",
+        "cor": "green"
+    },
+    {
+        "id": 62,
+        "instituição": "IFFARROUPILHA",
+        "campus": "Avançado Uruguaiana",
+        "tipo": "Integrado",
+        "status": "https://www.iffarroupilha.edu.br/component/k2/attachments/download/19456/8f767f2878eba95b53d444e14d42d259",
+        "cor": "green"
+    },
+    {
+        "id": 63,
+        "instituição": "IFFARROUPILHA",
+        "campus": "Frederico Wesphalen",
+        "tipo": "Integrado",
+        "status": "https://www.iffarroupilha.edu.br/component/k2/attachments/download/19351/1b317a78888b54c7336353e6af01e52d",
+        "cor": "green"
+    },
+    {
+        "id": 64,
+        "instituição": "IFFARROUPILHA",
+        "campus": "Júlio de Castilhos",
+        "tipo": "Integrado",
+        "status": "https://www.iffarroupilha.edu.br/component/k2/attachments/download/19404/9b63ff3e5af9104e34a530b34908ed1f",
+        "cor": "green"
+    },
+    {
+        "id": 65,
+        "instituição": "IFFARROUPILHA",
+        "campus": "Santo Augusto",
+        "tipo": "Integrado",
+        "status": "https://www.iffarroupilha.edu.br/component/k2/attachments/download/23488/45da0f5fa9f013401b3568ffcd94bb9b",
+        "cor": "green"
+    },
+    {
+        "id": 66,
+        "instituição": "IFFARROUPILHA",
+        "campus": "São Borja",
+        "tipo": "Integrado",
+        "status": "https://www.iffarroupilha.edu.br/component/k2/attachments/download/19447/c6f374f0ceab8a4375e47587593d8ad0",
+        "cor": "green"
+    },
+    {
+        "id": 67,
+        "instituição": "IFG",
+        "campus": "Inhumas",
+        "tipo": "Integrado",
+        "status": "Nome do curso está trocado na base de dados, nome certo: Informática para Internet",
+        "cor": "gray"
+    },
+    {
+        "id": 68,
+        "instituição": "IFG",
+        "campus": "Uruaçu",
+        "tipo": "Integrado",
+        "status": "http://cursos.ifg.edu.br/info/tecint/ctinf3/CP-URUACU",
+        "cor": "green"
+    },
+    {
+        "id": 69,
+        "instituição": "IFGOIANO",
+        "campus": "Avançado Catalão",
+        "tipo": "Integrado",
+        "status": "Não há o PPC no site",
+        "cor": "red"
+    },
+    {
+        "id": 70,
+        "instituição": "IFGOIANO",
+        "campus": "Campos Belos",
+        "tipo": "Integrado",
+        "status": "https://www.ifgoiano.edu.br/home/images/CMPCBE/2017/Marco/ppcs_atualizados/PPC---Tcnico-em-Informtica---Integrado---1200h---Alterado---2016-2.pdf",
+        "cor": "green"
+    },
+    {
+        "id": 71,
+        "instituição": "IFGOIANO",
+        "campus": "Ceres",
+        "tipo": "Integrado",
+        "status": "https://www.ifgoiano.edu.br/home/images/CER/Doc_cursos/Tecnicos/Informatica_Internet/Matriz_antiga/PPC-Tecnico-em-Informatica-Integrado-ao-Ensino-Medio---Matriz-2010-1.pdf",
+        "cor": "green"
+    },
+    {
+        "id": 72,
+        "instituição": "IFGOIANO",
+        "campus": "Cristalina",
+        "tipo": "Integrado",
+        "status": "https://www.ifgoiano.edu.br/home/images/CRIS/Doc_cursos/PPC_Tec-informatica_Cristalina.pdf",
+        "cor": "green"
+    },
+    {
+        "id": 73,
+        "instituição": "IFGOIANO",
+        "campus": "Iporá",
+        "tipo": "Integrado",
+        "status": "https://suap.ifgoiano.edu.br/media/documentos/arquivos/ppc_tec_info_integrado.pdf",
+        "cor": "green"
+    },
+    {
+        "id": 74,
+        "instituição": "IFGOIANO",
+        "campus": "Morrinhos",
+        "tipo": "Integrado",
+        "status": "Curso diz que é integrado, mas é concomitante",
+        "cor": "gray"
+    },
+    {
+        "id": 75,
+        "instituição": "IFGOIANO",
+        "campus": "Posse",
+        "tipo": "Integrado",
+        "status": "https://drive.google.com/drive/folders/1phXWSarPlTSKKS7IJJBR0FEHwspEcSlP",
+        "cor": "green"
+    },
+    {
+        "id": 76,
+        "instituição": "IFGOIANO",
+        "campus": "Urutaí",
+        "tipo": "Integrado",
+        "status": "Não há o PPC no site",
+        "cor": "red"
+    },
+    {
+        "id": 77,
+        "instituição": "IFMA",
+        "campus": "Açailândia",
+        "tipo": "Integrado",
+        "status": "https://portal.ifma.edu.br/documentos/?d=KyMzdWRdMEtRIkMmUENcRX5oc0B6RHxGZFdEQUNHVXNTRVBBUkFET1JASUZNQTUxM2VhZGJhYjY0YmM4MjViZTQ4YzkyNzUzZDc5Nlt8XTAwOV9QUk9FTl9SRUlULnBkZg=",
+        "cor": "green"
+    },
+    {
+        "id": 78,
+        "instituição": "IFMA",
+        "campus": "Avançado Porto Franco",
+        "tipo": "Integrado",
+        "status": "https://portal.ifma.edu.br/documentos/?d=KyMzdWRdMEtRIkMmUENcRX5oc0B6RHxGZFdEQUNHVXNTRVBBUkFET1JASUZNQTUzMjJjZjM1ZTNkYjJhODNhZDkzM2RjODQ0ZDE2OVt8XTAwM19QUk9FTl9SRUlULnBkZg=",
+        "cor": "green"
+    },
+    {
+        "id": 79,
+        "instituição": "IFMA",
+        "campus": "Avançado Rosário",
+        "tipo": "Integrado",
+        "status": "https://portal.ifma.edu.br/documentos/?d=KyMzdWRdMEtRIkMmUENcRX5oc0B6RHxGZFdEQUNHVXNTRVBBUkFET1JASUZNQTVlMjMwOTk5ZDA3NDkwNTQwZGRhZTljYTM3NzFmZlt8XTAwNV9QUk9FTl9SRUlULnBkZg=",
+        "cor": "green"
+    },
+    {
+        "id": 80,
+        "instituição": "IFMA",
+        "campus": "Bacabal",
+        "tipo": "Integrado",
+        "status": "https://portal.ifma.edu.br/documentos/?d=KyMzdWRdMEtRIkMmUENcRX5oc0B6RHxGZFdEQUNHVXNTRVBBUkFET1JASUZNQWM3YjAwNmZkZDQ0MGU3YzBmZTllM2M3NWI2YzJhMFt8XTAwNl9QUk9FTl9SRUlULlBERg=",
+        "cor": "green"
+    },
+    {
+        "id": 81,
+        "instituição": "IFMA",
+        "campus": "Barra do Corda",
+        "tipo": "Integrado",
+        "status": "https://portal.ifma.edu.br/documentos/?d=KyMzdWRdMEtRIkMmUENcRX5oc0B6RHxGZFdEQUNHVXNTRVBBUkFET1JASUZNQTdlNTg4ZDBkYmY5YWJjZTdjNTZjYmY2ZWI3ZjNiOVt8XTAxMF9QUk9FTl9SRUlULnBkZg=",
+        "cor": "green"
+    },
+    {
+        "id": 82,
+        "instituição": "IFMA",
+        "campus": "Caxias",
+        "tipo": "Integrado",
+        "status": "Cadastrado como Integrado, porém é Concomitante",
+        "cor": "gray"
+    },
+    {
+        "id": 83,
+        "instituição": "IFMA",
+        "campus": "Codó",
+        "tipo": "Integrado",
+        "status": "Não há o PPC no site",
+        "cor": "red"
+    },
+    {
+        "id": 84,
+        "instituição": "IFMA",
+        "campus": "Coelho Neto",
+        "tipo": "Integrado",
+        "status": "https://portal.ifma.edu.br/documentos/?d=KyMzdWRdMEtRIkMmUENcRX5oc0B6RHxGZFdEQUNHVXNTRVBBUkFET1JASUZNQTc2MGJkMWVkODg0NzgzOTc3YzUzNTI5NWZjYWFkNFt8XTAwNV9QUk9FTl9SRUlULnBkZg=",
+        "cor": "green"
+    },
+    {
+        "id": 85,
+        "instituição": "IFMA",
+        "campus": "Grajaú",
+        "tipo": "Integrado",
+        "status": "https://portal.ifma.edu.br/documentos/?d=KyMzdWRdMEtRIkMmUENcRX5oc0B6RHxGZFdEQUNHVXNTRVBBUkFET1JASUZNQWYzZjNiZmMyODZkNDQxYjlkMWRkMzIwNTM5ODUyMFt8XTAwOF9QUk9FTl9SRUlULnBkZg=",
+        "cor": "green"
+    },
+    {
+        "id": 86,
+        "instituição": "IFMA",
+        "campus": "Imperatriz",
+        "tipo": "Integrado",
+        "status": "Não existem informações sobre o curso cadastradas no site",
+        "cor": "gray"
+    },
+    {
+        "id": 87,
+        "instituição": "IFMA",
+        "campus": "Itapecuru Mirim",
+        "tipo": "Integrado",
+        "status": "https://portal.ifma.edu.br/documentos/?d=KyMzdWRdMEtRIkMmUENcRX5oc0B6RHxGZFdEQUNHVXNTRVBBUkFET1JASUZNQTJiODVmNjBmN2YzMGFlOWJlNjFhZDFlYTRjNGE3OFt8XTAwM19QUk9FTl9SRUlULnBkZg=",
+        "cor": "green"
+    },
+    {
+        "id": 88,
+        "instituição": "IFMA",
+        "campus": "Pinheiro",
+        "tipo": "Integrado",
+        "status": "https://portal.ifma.edu.br/documentos/?d=KyMzdWRdMEtRIkMmUENcRX5oc0B6RHxGZFdEQUNHVXNTRVBBUkFET1JASUZNQTQ3NTQ5M2UyOWUwNDMxMzZmYTNiODUyNjczODIwMFt8XTAwNF9QUk9FTl9SRUlULnBkZg=",
+        "cor": "green"
+    },
+    {
+        "id": 89,
+        "instituição": "IFMA",
+        "campus": "Santa Inês",
+        "tipo": "Integrado",
+        "status": "https://portal.ifma.edu.br/documentos/?d=KyMzdWRdMEtRIkMmUENcRX5oc0B6RHxGZFdEQUNHVXNTRVBBUkFET1JASUZNQTQ5MjZiMjRkMmY0YWQwYjE0NjQ5ODc2MmEwNDUzM1t8XTAwMl9QUk9FTl9SRUlULnBkZg=",
+        "cor": "green"
+    },
+    {
+        "id": 90,
+        "instituição": "IFMA",
+        "campus": "São Luís Monte Castelo",
+        "tipo": "Integrado",
+        "status": "Nome do curso está trocado na base de dados, nome certo: Manutenção e suporte em Informática",
+        "cor": "gray"
+    },
+    {
+        "id": 91,
+        "instituição": "IFMA",
+        "campus": "São Raimundo das Mangabeiras",
+        "tipo": "Integrado",
+        "status": "Nome do curso está trocado na base de dados, nome certo: Informática para Internet",
+        "cor": "gray"
+    },
+    {
+        "id": 92,
+        "instituição": "IFMG",
+        "campus": "Avançado Ponte Nova",
+        "tipo": "Integrado",
+        "status": "https://www.ifmg.edu.br/pontenova/cursos-1/tecnico/docs/PPCIntegradoInformatica20191_compressed.pdf",
+        "cor": "green"
+    },
+    {
+        "id": 93,
+        "instituição": "IFMG",
+        "campus": "Bambuí",
+        "tipo": "Integrado",
+        "status": "Site indisponível",
+        "cor": "gray"
+    },
+    {
+        "id": 94,
+        "instituição": "IFMG",
+        "campus": "Formiga",
+        "tipo": "Integrado",
+        "status": "https://www.formiga.ifmg.edu.br/documents/2020/DE/PPC_FOR_Tecnico_Integrado_em_Informatica_2020_atualizado-em-19-12-2019_Biologias_ok.pdf",
+        "cor": "green"
+    },
+    {
+        "id": 95,
+        "instituição": "IFMG",
+        "campus": "Ouro Branco",
+        "tipo": "Integrado",
+        "status": "https://www.ifmg.edu.br/ourobranco/nossos-cursos/PPCTcnicoIntegradoInformticaOuroBranco.pdf",
+        "cor": "green"
+    },
+    {
+        "id": 96,
+        "instituição": "IFMG",
+        "campus": "Ribeirão das Neves",
+        "tipo": "Integrado",
+        "status": "https://www.ifmg.edu.br/ribeiraodasneves/arquivos/nossos-cursos-arquivos/tecnico-integrado-em-informatica/ppc_tecnico_informatica_turmas-a-partir-de-2020-aprovado.pdf",
+        "cor": "green"
+    },
+    {
+        "id": 97,
+        "instituição": "IFMG",
+        "campus": "Sabará",
+        "tipo": "Integrado",
+        "status": "https://www.ifmg.edu.br/sabara/nossos-cursos/documentos-nossos-cursos/ppc-informatica-campus-sabara-aprovado-proen_consup-outubro-2017.pdf",
+        "cor": "green"
+    },
+    {
+        "id": 98,
+        "instituição": "IFMG",
+        "campus": "São João Evangelista",
+        "tipo": "Integrado",
+        "status": "https://www.sje.ifmg.edu.br/portal/images/artigos/cursos/tecnico-em-manutencao-suporte-em-informatica/ppc-tecnico-em-informatica-integrado-2019.pdf",
+        "cor": "green"
+    },
+    {
+        "id": 99,
+        "instituição": "IFMS",
+        "campus": "Aquidauana",
+        "tipo": "Integrado",
+        "status": "https://www.ifms.edu.br/centrais-de-conteudo/documentos-institucionais/projetos-pedagogicos/projetos-pedagogicos-dos-cursos-tecnicos/projeto-pedagogico-do-curso-tecnico-em-informatica-aquidauana.pdf",
+        "cor": "green"
+    },
+    {
+        "id": 100,
+        "instituição": "IFMS",
+        "campus": "Campo Grande",
+        "tipo": "Integrado",
+        "status": "https://www.ifms.edu.br/centrais-de-conteudo/documentos-institucionais/projetos-pedagogicos/projetos-pedagogicos-dos-cursos-tecnicos/projeto-pedagogico-do-curso-tecnico-em-informatica-campo-grande.pdf",
+        "cor": "green"
+    },
+    {
+        "id": 101,
+        "instituição": "IFMS",
+        "campus": "Corumbá",
+        "tipo": "Integrado",
+        "status": "https://www.ifms.edu.br/centrais-de-conteudo/documentos-institucionais/projetos-pedagogicos/projetos-pedagogicos-dos-cursos-tecnicos/projeto-pedagogico-do-curso-tecnico-em-informatica-corumba.pdf",
+        "cor": "green"
+    },
+    {
+        "id": 102,
+        "instituição": "IFMS",
+        "campus": "Coxim",
+        "tipo": "Integrado",
+        "status": "https://www.ifms.edu.br/centrais-de-conteudo/documentos-institucionais/projetos-pedagogicos/projetos-pedagogicos-dos-cursos-tecnicos/projeto-pedagogico-do-curso-tecnico-em-informatica-coxim.pdf",
+        "cor": "green"
+    },
+    {
+        "id": 103,
+        "instituição": "IFMS",
+        "campus": "Jardim",
+        "tipo": "Integrado",
+        "status": "https://www.ifms.edu.br/centrais-de-conteudo/documentos-institucionais/projetos-pedagogicos/projetos-pedagogicos-dos-cursos-tecnicos/Resoluo0252017PPCTecnicoemInformticaJardim.pdf",
+        "cor": "green"
+    },
+    {
+        "id": 104,
+        "instituição": "IFMS",
+        "campus": "Nova Andradina",
+        "tipo": "Integrado",
+        "status": "https://www.ifms.edu.br/centrais-de-conteudo/documentos-institucionais/projetos-pedagogicos/projetos-pedagogicos-dos-cursos-tecnicos/projeto-pedagogico-do-curso-tecnico-em-informatica-nova-andradina.pdf",
+        "cor": "green"
+    },
+    {
+        "id": 105,
+        "instituição": "IFMS",
+        "campus": "Ponta Porã",
+        "tipo": "Integrado",
+        "status": "https://www.ifms.edu.br/centrais-de-conteudo/documentos-institucionais/projetos-pedagogicos/projetos-pedagogicos-dos-cursos-tecnicos/projeto-pedagogico-do-curso-tecnico-em-informatica-ponta-pora.pdf",
+        "cor": "green"
+    },
+    {
+        "id": 106,
+        "instituição": "IFMS",
+        "campus": "Três Lagoas",
+        "tipo": "Integrado",
+        "status": "https://www.ifms.edu.br/centrais-de-conteudo/documentos-institucionais/projetos-pedagogicos/projetos-pedagogicos-dos-cursos-tecnicos/projeto-pedagogico-do-curso-tecnico-em-informatica-tres-lagoas.pdf",
+        "cor": "green"
+    },
+    {
+        "id": 107,
+        "instituição": "IFMT",
+        "campus": "Barra do Garça",
+        "tipo": "Integrado",
+        "status": "http://bag.ifmt.edu.br/media/filer_public/98/b1/98b1d20c-28a3-4875-991e-192e6c669459/ppc_info_2016.pdf",
+        "cor": "green"
+    },
+    {
+        "id": 108,
+        "instituição": "IFMT",
+        "campus": "Cáceres",
+        "tipo": "Integrado",
+        "status": "Não existem informações sobre o curso cadastradas no site",
+        "cor": "gray"
+    },
+    {
+        "id": 109,
+        "instituição": "IFMT",
+        "campus": "Cuiabá",
+        "tipo": "Integrado",
+        "status": "Não há o PPC no site",
+        "cor": "red"
+    },
+    {
+        "id": 110,
+        "instituição": "IFMT",
+        "campus": "Pontes e Lacerda",
+        "tipo": "Integrado",
+        "status": "http://plc.ifmt.edu.br/media/filer_public/84/1a/841a1315-69ac-4ef8-8349-67165e906077/ppc_-_informatica_integrado_ao_ensino_medio_-_pontes_e_lacerda_-_2015_-_consup.pdf",
+        "cor": "green"
+    },
+    {
+        "id": 111,
+        "instituição": "IFMT",
+        "campus": "Primavera do Leste",
+        "tipo": "Integrado",
+        "status": "http://pdl.ifmt.edu.br/media/filer_public/bc/0e/bc0ea903-f384-4d75-b105-e09bbce15b54/ppc_tecnico_em_informatica__pdl_04-10-16_2.pdf",
+        "cor": "green"
+    },
+    {
+        "id": 112,
+        "instituição": "IFMT",
+        "campus": "Rondonópoliss",
+        "tipo": "Integrado",
+        "status": "https://drive.google.com/drive/folders/140syWRjY8q3z5RlosFLye1zwo6IIh4tY",
+        "cor": "green"
+    },
+    {
+        "id": 113,
+        "instituição": "IFNMG",
+        "campus": "Almenara",
+        "tipo": "Integrado",
+        "status": "https://ifnmg.edu.br/cursos-alm/cursos-tecnicos-alm?layout=edit&id=1283",
+        "cor": "green"
+    },
+    {
+        "id": 114,
+        "instituição": "IFNMG",
+        "campus": "Araçuaí",
+        "tipo": "Integrado",
+        "status": "https://ifnmg.edu.br/cursos/259-portal/aracuai/aracuai-cursos-tecnicos/tecnico-em-informatica-integrado/12956-tecnico-em-informatica-integrado",
+        "cor": "green"
+    },
+    {
+        "id": 115,
+        "instituição": "IFNMG",
+        "campus": "Arinos",
+        "tipo": "Integrado",
+        "status": "https://ifnmg.edu.br/cursos-ari1/cursos-tecnicos/275-portal/arinos/arinos-cursos-tecnicos/tecnico-em-informatica-integrado/13051-tecnico-em-informatica-integrado",
+        "cor": "green"
+    },
+    {
+        "id": 116,
+        "instituição": "IFNMG",
+        "campus": "Diamantina",
+        "tipo": "Integrado",
+        "status": "https://documento.ifnmg.edu.br/action.php?kt_path_info=ktcore.actions.document.view&fDocumentId=35338",
+        "cor": "green"
+    },
+    {
+        "id": 117,
+        "instituição": "IFNMG",
+        "campus": "Montes Claros",
+        "tipo": "Integrado",
+        "status": "https://ifnmg.edu.br/cursos-moc/tecnicos?id=1854",
+        "cor": "green"
+    },
+    {
+        "id": 118,
+        "instituição": "IFNMG",
+        "campus": "Pirapora",
+        "tipo": "Integrado",
+        "status": "https://www.ifnmg.edu.br/cursos-pir/tecnicos/36-portal/pirapora/pirapora-cursos/11657-tecnico-informatica",
+        "cor": "green"
+    },
+    {
+        "id": 119,
+        "instituição": "IFNMG",
+        "campus": "Salinas",
+        "tipo": "Integrado",
+        "status": "https://ifnmg.edu.br/cursos/344-portal/salinas/salinas-cursos-tecnicos/tecnico-em-informatica-integrado/13549-tecnico-em-informatica-integrado",
+        "cor": "green"
+    },
+    {
+        "id": 120,
+        "instituição": "IFPA",
+        "campus": "Abaetetuba",
+        "tipo": "Integrado",
+        "status": "Não há o PPC no site",
+        "cor": "red"
+    },
+    {
+        "id": 121,
+        "instituição": "IFPA",
+        "campus": "Altamira",
+        "tipo": "Integrado",
+        "status": "Não há o PPC no site",
+        "cor": "red"
+    },
+    {
+        "id": 122,
+        "instituição": "IFPA",
+        "campus": "Ananindeua",
+        "tipo": "Integrado",
+        "status": "Não há o PPC no site",
+        "cor": "red"
+    },
+    {
+        "id": 123,
+        "instituição": "IFPA",
+        "campus": "Belém",
+        "tipo": "Integrado",
+        "status": "Não há o PPC no site",
+        "cor": "red"
+    },
+    {
+        "id": 124,
+        "instituição": "IFPA",
+        "campus": "Breves",
+        "tipo": "Integrado",
+        "status": "Não há o PPC no site",
+        "cor": "red"
+    },
+    {
+        "id": 125,
+        "instituição": "IFPA",
+        "campus": "Cametá",
+        "tipo": "Integrado",
+        "status": "Não há o PPC no site",
+        "cor": "red"
+    },
+    {
+        "id": 126,
+        "instituição": "IFPA",
+        "campus": "Castanhal",
+        "tipo": "Integrado",
+        "status": "Não há o PPC no site",
+        "cor": "red"
+    },
+    {
+        "id": 127,
+        "instituição": "IFPA",
+        "campus": "Itaituba",
+        "tipo": "Integrado",
+        "status": "Não há o PPC no site",
+        "cor": "red"
+    },
+    {
+        "id": 128,
+        "instituição": "IFPA",
+        "campus": "Marabá Industrial",
+        "tipo": "Integrado",
+        "status": "https://drive.google.com/file/d/1FzIC8e-beN_5KwcHpQZQcFscuMx4QRTf/view",
+        "cor": "green"
+    },
+    {
+        "id": 129,
+        "instituição": "IFPA",
+        "campus": "Paragominas",
+        "tipo": "Integrado",
+        "status": "Não há o PPC no site",
+        "cor": "red"
+    },
+    {
+        "id": 130,
+        "instituição": "IFPA",
+        "campus": "Santarém",
+        "tipo": "Integrado",
+        "status": "Não há o PPC no site",
+        "cor": "red"
+    },
+    {
+        "id": 131,
+        "instituição": "IFPB",
+        "campus": "Cajazeiras",
+        "tipo": "Integrado",
+        "status": "https://estudante.ifpb.edu.br/media/cursos/84/documentos/PPC_INFORMATICA_CAJAZEIRAS_FINAL_14-08-2013.pdf",
+        "cor": "green"
+    },
+    {
+        "id": 132,
+        "instituição": "IFPB",
+        "campus": "Campina Grande ",
+        "tipo": "Integrado",
+        "status": "https://estudante.ifpb.edu.br/media/cursos/90/documentos/PPC_de_Informática_Integrado_Reformulação_2015-Final.pdf",
+        "cor": "green"
+    },
+    {
+        "id": 133,
+        "instituição": "IFPB",
+        "campus": "Esperança",
+        "tipo": "Integrado",
+        "status": "https://estudante.ifpb.edu.br/media/cursos/74/documentos/PPC_Integrado_Informática_-_Campus_Esperança_-_Rev_-_Final.pdf",
+        "cor": "green"
+    },
+    {
+        "id": 134,
+        "instituição": "IFPB",
+        "campus": "Guarabira",
+        "tipo": "Integrado",
+        "status": "https://estudante.ifpb.edu.br/media/cursos/75/documentos/ppc-informatica.pdf",
+        "cor": "green"
+    },
+    {
+        "id": 135,
+        "instituição": "IFPB",
+        "campus": "Patos",
+        "tipo": "Integrado",
+        "status": "https://estudante.ifpb.edu.br/media/cursos/162/documentos/PPC-Informática-2016.pdf",
+        "cor": "green"
+    },
+    {
+        "id": 136,
+        "instituição": "IFPB",
+        "campus": "Picuí",
+        "tipo": "Integrado",
+        "status": "https://estudante.ifpb.edu.br/media/cursos/120/documentos/PPC_Informática_-_Turmas_2018_e_futuras_-_3_anos_v3.pdf",
+        "cor": "green"
+    },
+    {
+        "id": 137,
+        "instituição": "IFPB",
+        "campus": "Santa Luzia",
+        "tipo": "Integrado",
+        "status": "Não há o PPC no site",
+        "cor": "red"
+    },
+    {
+        "id": 138,
+        "instituição": "IFPB",
+        "campus": "Santa Rita",
+        "tipo": "Integrado",
+        "status": "https://estudante.ifpb.edu.br/media/cursos/124/documentos/PPC_ETIM_INFORMATICA_SANTA_RITA.pdf",
+        "cor": "green"
+    },
+    {
+        "id": 139,
+        "instituição": "IFPB",
+        "campus": "Sousa",
+        "tipo": "Integrado",
+        "status": "https://estudante.ifpb.edu.br/media/cursos/126/documentos/PPC_-_Informática_-_Integrado_-_2016.pdf",
+        "cor": "green"
+    },
+    {
+        "id": 140,
+        "instituição": "IFPE",
+        "campus": "Afogados da Ingazeira",
+        "tipo": "Integrado",
+        "status": "https://www.ifpe.edu.br/campus/afogados/cursos/tecnicos/integrados/informatica/projeto-pedagogico/ppc-informatica-afogados-v5.pdf",
+        "cor": "green"
+    },
+    {
+        "id": 141,
+        "instituição": "IFPE",
+        "campus": "Garanhuns",
+        "tipo": "Integrado",
+        "status": "Não há o PPC no site",
+        "cor": "red"
+    },
+    {
+        "id": 142,
+        "instituição": "IFPI",
+        "campus": "Angical do Piauí",
+        "tipo": "Integrado",
+        "status": "Não há o PPC no site",
+        "cor": "red"
+    },
+    {
+        "id": 143,
+        "instituição": "IFPI",
+        "campus": "Campo Maior",
+        "tipo": "Integrado",
+        "status": "Não existem informações sobre o curso cadastradas no site",
+        "cor": "gray"
+    },
+    {
+        "id": 144,
+        "instituição": "IFPI",
+        "campus": "Corrente",
+        "tipo": "Integrado",
+        "status": "Não há o PPC no site",
+        "cor": "red"
+    },
+    {
+        "id": 145,
+        "instituição": "IFPI",
+        "campus": "Floriano",
+        "tipo": "Integrado",
+        "status": "Não há o PPC no site",
+        "cor": "red"
+    },
+    {
+        "id": 146,
+        "instituição": "IFPI",
+        "campus": "Parnaíba",
+        "tipo": "Integrado",
+        "status": "Não há o PPC no site",
+        "cor": "red"
+    },
+    {
+        "id": 147,
+        "instituição": "IFPI",
+        "campus": "Pedro II",
+        "tipo": "Integrado",
+        "status": "Não há o PPC no site",
+        "cor": "red"
+    },
+    {
+        "id": 148,
+        "instituição": "IFPI",
+        "campus": "Picos",
+        "tipo": "Integrado",
+        "status": "Não há o PPC no site",
+        "cor": "red"
+    },
+    {
+        "id": 149,
+        "instituição": "IFPI",
+        "campus": "Piripiri",
+        "tipo": "Integrado",
+        "status": "Não há o PPC no site",
+        "cor": "red"
+    },
+    {
+        "id": 150,
+        "instituição": "IFPI",
+        "campus": "São Raimundo Nonato",
+        "tipo": "Integrado",
+        "status": "Não há o PPC no site",
+        "cor": "red"
+    },
+    {
+        "id": 151,
+        "instituição": "IFPI",
+        "campus": "Teresina Central",
+        "tipo": "Integrado",
+        "status": "Não há o PPC no site",
+        "cor": "red"
+    },
+    {
+        "id": 152,
+        "instituição": "IFPR",
+        "campus": "Assis Chateaubriand",
+        "tipo": "Integrado",
+        "status": "https://assis.ifpr.edu.br/wp-content/uploads/2018/10/PPC_IIN_SITE.pdf",
+        "cor": "green"
+    },
+    {
+        "id": 153,
+        "instituição": "IFPR",
+        "campus": "Avançado Astorga",
+        "tipo": "Integrado",
+        "status": "https://astorga.ifpr.edu.br/wp-content/uploads/2017/11/PPC-T%c3%a9cnico-em-Inform%c3%a1tica-Integrado-ao-Ensino-M%c3%a9dio-Astorga-2018.pdf",
+        "cor": "green"
+    },
+    {
+        "id": 154,
+        "instituição": "IFPR",
+        "campus": "Avançado Barracão",
+        "tipo": "Integrado",
+        "status": "https://barracao.ifpr.edu.br/wp-content/uploads/2019/01/PPC-TEC-INFORM%c3%81TICA-CAMPUS-BARRAC%c3%83O.pdf",
+        "cor": "green"
+    },
+    {
+        "id": 155,
+        "instituição": "IFPR",
+        "campus": "Avançado Goioerê",
+        "tipo": "Integrado",
+        "status": "https://goioere.ifpr.edu.br/wp-content/uploads/2017/05/PPC-inform%c3%a1tica-integrado-2016.pdf",
+        "cor": "green"
+    },
+    {
+        "id": 156,
+        "instituição": "IFPR",
+        "campus": "Avançado Quedas do Iguaçu",
+        "tipo": "Integrado",
+        "status": "https://quedasdoiguacu.ifpr.edu.br/wp-content/uploads/2018/08/2_PPC-INFORM%C3%81TICA_3-ANOS_VERS%C3%83O-APROVADA_AGOSTO-2018.pdf",
+        "cor": "green"
+    },
+    {
+        "id": 157,
+        "instituição": "IFPR",
+        "campus": "Capanema",
+        "tipo": "Integrado",
+        "status": "https://capanema.ifpr.edu.br/wp-content/uploads/2020/09/Projeto-Pedag%C3%B3gico-do-Curso-T%C3%A9cnico-em-Inform%C3%A1tica-vers%C3%A3o-final-ingresso-2021-3.pdf",
+        "cor": "green"
+    },
+    {
+        "id": 158,
+        "instituição": "IFPR",
+        "campus": "Cascavel",
+        "tipo": "Integrado",
+        "status": "https://cascavel.ifpr.edu.br/wp-content/uploads/2018/02/PPC-INFORM%c3%81TICA-vigente_01_2018.pdf",
+        "cor": "green"
+    },
+    {
+        "id": 159,
+        "instituição": "IFPR",
+        "campus": "Colombo",
+        "tipo": "Integrado",
+        "status": "https://colombo.ifpr.edu.br/wp-content/uploads/2018/08/PPC-T%C3%A9cnico-em-Inform%C3%A1tica.pdf",
+        "cor": "green"
+    },
+    {
+        "id": 160,
+        "instituição": "IFPR",
+        "campus": "Curitiba",
+        "tipo": "Integrado",
+        "status": "https://curitiba.ifpr.edu.br/wp-content/uploads/2020/04/PPC-Inform%C3%A1tica_2019-Final-REVISADO.pdf",
+        "cor": "green"
+    },
+    {
+        "id": 161,
+        "instituição": "IFPR",
+        "campus": "Foz do Iguaçu",
+        "tipo": "Integrado",
+        "status": "https://foz.ifpr.edu.br/wp-content/uploads/2020/02/PPC-Inform%C3%A1tica.pdf",
+        "cor": "green"
+    },
+    {
+        "id": 162,
+        "instituição": "IFPR",
+        "campus": "Irati",
+        "tipo": "Integrado",
+        "status": "https://irati.ifpr.edu.br/wp-content/uploads/2018/02/ppc_3anos.pdf",
+        "cor": "green"
+    },
+    {
+        "id": 163,
+        "instituição": "IFPR",
+        "campus": "Ivaiporã",
+        "tipo": "Integrado",
+        "status": "https://ivaipora.ifpr.edu.br/wp-content/uploads/2017/03/Inform%c3%a1tica-Integrado-.pdf",
+        "cor": "green"
+    },
+    {
+        "id": 164,
+        "instituição": "IFPR",
+        "campus": "Jacarezinho",
+        "tipo": "Integrado",
+        "status": "https://jacarezinho.ifpr.edu.br/wp-content/uploads/2018/11/PPC-Inform%c3%a1tica-1.pdf",
+        "cor": "green"
+    },
+    {
+        "id": 165,
+        "instituição": "IFPR",
+        "campus": "Londrina",
+        "tipo": "Integrado",
+        "status": "https://londrina.ifpr.edu.br/wp-content/uploads/2018/04/PPC-T%c3%a9cnico-Inform%c3%a1tica-Integrado-ao-Ensino-Medio-ver-2017.pdf",
+        "cor": "green"
+    },
+    {
+        "id": 166,
+        "instituição": "IFPR",
+        "campus": "Paranaguá",
+        "tipo": "Integrado",
+        "status": "https://paranagua.ifpr.edu.br/wp-content/uploads/2013/12/PPC-T%c3%a9cnico-em-Inform%c3%a1tica.pdf",
+        "cor": "green"
+    },
+    {
+        "id": 167,
+        "instituição": "IFPR",
+        "campus": "Paranavaí",
+        "tipo": "Integrado",
+        "status": "https://paranavai.ifpr.edu.br/wp-content/uploads/2017/05/PPC-INFORM%c3%81RTICA-TURMAS-IN%c3%8dCIO-2016.pdf",
+        "cor": "green"
+    },
+    {
+        "id": 168,
+        "instituição": "IFPR",
+        "campus": "Pinhais",
+        "tipo": "Integrado",
+        "status": "https://drive.google.com/file/d/1M8esWxdqUJL_ox1SG0HNFFllYxU0xG8T/view",
+        "cor": "green"
+    },
+    {
+        "id": 169,
+        "instituição": "IFPR",
+        "campus": "Umuarama",
+        "tipo": "Integrado",
+        "status": "https://umuarama.ifpr.edu.br/wp-content/uploads/2018/11/INFORM%c3%81TICA-INTEGRADO-DIVULGADO.pdf",
+        "cor": "green"
+    },
+    {
+        "id": 170,
+        "instituição": "IFPR",
+        "campus": "União da Vitória",
+        "tipo": "Integrado",
+        "status": "https://uniao.ifpr.edu.br/wp-content/uploads/2019/10/PPC-T%C3%A9cnico-em-Inform%C3%A1tica-ingressantes-2018-e-2019-declara%C3%A7%C3%A3o-trimestre.pdf",
+        "cor": "green"
+    },
+    {
+        "id": 171,
+        "instituição": "IFRJ",
+        "campus": "Arraial do Cabo",
+        "tipo": "Integrado",
+        "status": "https://portal.ifrj.edu.br/sites/default/files/IFRJ/PROET/ppc_tecnico_em_informatica_integrado_cac_-_reestruturacao.pdf",
+        "cor": "green"
+    },
+    {
+        "id": 172,
+        "instituição": "IFRJ",
+        "campus": "Niterói",
+        "tipo": "Integrado",
+        "status": "https://portal.ifrj.edu.br/sites/default/files/IFRJ/PROET/ppc-informatica-cnit.pdf",
+        "cor": "green"
+    },
+    {
+        "id": 173,
+        "instituição": "IFRJ",
+        "campus": "Pinheiral",
+        "tipo": "Integrado",
+        "status": "Não há o PPC no site",
+        "cor": "red"
+    },
+    {
+        "id": 174,
+        "instituição": "IFRN",
+        "campus": "Apodi",
+        "tipo": "Integrado",
+        "status": "https://portal.ifrn.edu.br/ensino/cursos/cursos-tecnicos-de-nivel-medio/tecnico-integrado/tecnico-em-informatica/view",
+        "cor": "green"
+    },
+    {
+        "id": 175,
+        "instituição": "IFRN",
+        "campus": "Avançado Lajes",
+        "tipo": "Integrado",
+        "status": "https://portal.ifrn.edu.br/ensino/cursos/cursos-tecnicos-de-nivel-medio/tecnico-integrado/tecnico-em-informatica/view",
+        "cor": "green"
+    },
+    {
+        "id": 176,
+        "instituição": "IFRN",
+        "campus": "Avançado Parelhas",
+        "tipo": "Integrado",
+        "status": "Não existem informações sobre o curso cadastradas no site",
+        "cor": "gray"
+    },
+    {
+        "id": 177,
+        "instituição": "IFRN",
+        "campus": "Caicó",
+        "tipo": "Integrado",
+        "status": "https://portal.ifrn.edu.br/ensino/cursos/cursos-tecnicos-de-nivel-medio/tecnico-integrado/tecnico-em-informatica/view",
+        "cor": "green"
+    },
+    {
+        "id": 178,
+        "instituição": "IFRN",
+        "campus": "Canguaretama",
+        "tipo": "Integrado",
+        "status": "Não existem informações sobre o curso cadastradas no site",
+        "cor": "gray"
+    },
+    {
+        "id": 179,
+        "instituição": "IFRN",
+        "campus": "Ceará-Mirim",
+        "tipo": "Integrado",
+        "status": "Não existem informações sobre o curso cadastradas no site",
+        "cor": "gray"
+    },
+    {
+        "id": 180,
+        "instituição": "IFRN",
+        "campus": "Currais Novos",
+        "tipo": "Integrado",
+        "status": "https://portal.ifrn.edu.br/ensino/cursos/cursos-tecnicos-de-nivel-medio/tecnico-integrado/tecnico-em-informatica/view",
+        "cor": "green"
+    },
+    {
+        "id": 181,
+        "instituição": "IFRN",
+        "campus": "Ipanguaçu",
+        "tipo": "Integrado",
+        "status": "https://portal.ifrn.edu.br/ensino/cursos/cursos-tecnicos-de-nivel-medio/tecnico-integrado/tecnico-em-informatica/view",
+        "cor": "green"
+    },
+    {
+        "id": 182,
+        "instituição": "IFRN",
+        "campus": "João Câmara",
+        "tipo": "Integrado",
+        "status": "https://portal.ifrn.edu.br/ensino/cursos/cursos-tecnicos-de-nivel-medio/tecnico-integrado/tecnico-em-informatica/view",
+        "cor": "green"
+    },
+    {
+        "id": 183,
+        "instituição": "IFRN",
+        "campus": "Macau",
+        "tipo": "Integrado",
+        "status": "https://portal.ifrn.edu.br/ensino/cursos/cursos-tecnicos-de-nivel-medio/tecnico-integrado/tecnico-em-informatica/view",
+        "cor": "green"
+    },
+    {
+        "id": 184,
+        "instituição": "IFRN",
+        "campus": "Mossoró",
+        "tipo": "Integrado",
+        "status": "https://portal.ifrn.edu.br/ensino/cursos/cursos-tecnicos-de-nivel-medio/tecnico-integrado/tecnico-em-informatica/view",
+        "cor": "green"
+    },
+    {
+        "id": 185,
+        "instituição": "IFRN",
+        "campus": "Natal Zona Norte",
+        "tipo": "Integrado",
+        "status": "https://portal.ifrn.edu.br/ensino/cursos/cursos-tecnicos-de-nivel-medio/tecnico-integrado/tecnico-em-informatica/view",
+        "cor": "green"
+    },
+    {
+        "id": 186,
+        "instituição": "IFRN",
+        "campus": "Nova Cruz",
+        "tipo": "Integrado",
+        "status": "https://portal.ifrn.edu.br/ensino/cursos/cursos-tecnicos-de-nivel-medio/tecnico-integrado/tecnico-em-informatica/view",
+        "cor": "green"
+    },
+    {
+        "id": 187,
+        "instituição": "IFRN",
+        "campus": "Parnamirim",
+        "tipo": "Integrado",
+        "status": "https://portal.ifrn.edu.br/ensino/cursos/cursos-tecnicos-de-nivel-medio/tecnico-integrado/tecnico-em-informatica/view",
+        "cor": "green"
+    },
+    {
+        "id": 188,
+        "instituição": "IFRN",
+        "campus": "Pau dos Ferros",
+        "tipo": "Integrado",
+        "status": "https://portal.ifrn.edu.br/ensino/cursos/cursos-tecnicos-de-nivel-medio/tecnico-integrado/tecnico-em-informatica/view",
+        "cor": "green"
+    },
+    {
+        "id": 189,
+        "instituição": "IFRN",
+        "campus": "Santa Cruz",
+        "tipo": "Integrado",
+        "status": "https://portal.ifrn.edu.br/ensino/cursos/cursos-tecnicos-de-nivel-medio/tecnico-integrado/tecnico-em-informatica/view",
+        "cor": "green"
+    },
+    {
+        "id": 190,
+        "instituição": "IFRN",
+        "campus": "São Gonçalo do Amarante",
+        "tipo": "Integrado",
+        "status": "https://portal.ifrn.edu.br/ensino/cursos/cursos-tecnicos-de-nivel-medio/tecnico-integrado/tecnico-em-informatica/view",
+        "cor": "green"
+    },
+    {
+        "id": 191,
+        "instituição": "IFRO",
+        "campus": "Cacoal",
+        "tipo": "Integrado",
+        "status": "https://portal.ifro.edu.br/cacoal/cursos/1961-tecnico-em-informatica-integrado",
+        "cor": "green"
+    },
+    {
+        "id": 192,
+        "instituição": "IFRO",
+        "campus": "Guajará-Mirim",
+        "tipo": "Integrado",
+        "status": "https://portal.ifro.edu.br/images/Campi/Guajara_Mirim/Documentos/PPC_T%C3%A9cnico_em_Inform%C3%A1tica.pdf",
+        "cor": "green"
+    },
+    {
+        "id": 193,
+        "instituição": "IFRO",
+        "campus": "Ji-Paraná",
+        "tipo": "Integrado",
+        "status": "https://portal.ifro.edu.br/images/Campi/ji-parana/Documentos/Resolu%C3%A7%C3%A3o_n%C2%BA_21_-_PPC_T%C3%A9c._em_Inform%C3%A1tica_Integrado_JIPA_SEI.pdf",
+        "cor": "green"
+    },
+    {
+        "id": 194,
+        "instituição": "IFRO",
+        "campus": "Porto Velho Calama",
+        "tipo": "Integrado",
+        "status": "https://portal.ifro.edu.br/calama/cursos/4709-informatica",
+        "cor": "green"
+    },
+    {
+        "id": 195,
+        "instituição": "IFRO",
+        "campus": "Vilhena",
+        "tipo": "Integrado",
+        "status": "https://portal.ifro.edu.br/vilhena/cursos/1971-tecnico-em-informatica-integrado",
+        "cor": "green"
+    },
+    {
+        "id": 196,
+        "instituição": "IFRR",
+        "campus": "Boa Vista",
+        "tipo": "Integrado",
+        "status": "https://www.ifrr.edu.br/acessoainformacao/participacao-social/conselhos-e-orgaos-colegiados/conselho-superior/resolucoes/resolucoes-consup-2018/resolucao-n-o-353-conselho-superior",
+        "cor": "green"
+    },
+    {
+        "id": 197,
+        "instituição": "IFRS",
+        "campus": "Canoas",
+        "tipo": "Integrado",
+        "status": "Não existem informações sobre o curso cadastradas no site",
+        "cor": "gray"
+    },
+    {
+        "id": 198,
+        "instituição": "IFRS",
+        "campus": "Farroupilha",
+        "tipo": "Integrado",
+        "status": "https://ifrs.edu.br/farroupilha/wp-content/uploads/sites/12/2018/12/PPC_INFORMATICA_2018_novembro_FINAL.pdf",
+        "cor": "green"
+    },
+    {
+        "id": 199,
+        "instituição": "IFRS",
+        "campus": "Feliz",
+        "tipo": "Integrado",
+        "status": "https://ifrs.edu.br/feliz/wp-content/uploads/sites/18/2018/12/PPC.Info_.Integrado071218_Aprovado.pdf",
+        "cor": "green"
+    },
+    {
+        "id": 200,
+        "instituição": "IFRS",
+        "campus": "Ibirubá",
+        "tipo": "Integrado",
+        "status": "https://ifrs.edu.br/ibiruba/wp-content/uploads/sites/4/2017/12/PPC.pdf",
+        "cor": "green"
+    },
+    {
+        "id": 201,
+        "instituição": "IFRS",
+        "campus": "Osório",
+        "tipo": "Integrado",
+        "status": "https://osorio.ifrs.edu.br/site/midias/arquivos/20162420155561ppc_emi_info_atual_(1).pdf",
+        "cor": "green"
+    },
+    {
+        "id": 202,
+        "instituição": "IFRS",
+        "campus": "Porto Alegre Restinga",
+        "tipo": "Integrado",
+        "status": "https://restinga.ifrs.edu.br/site/midias/arquivos/201742619733425ppc_integrado_informatica.pdf",
+        "cor": "green"
+    },
+    {
+        "id": 203,
+        "instituição": "IFRS",
+        "campus": "Rolante",
+        "tipo": "Integrado",
+        "status": "https://ifrs.edu.br/rolante/wp-content/uploads/sites/14/2018/11/ppc-info-junho-2017.pdf",
+        "cor": "green"
+    },
+    {
+        "id": 204,
+        "instituição": "IFS",
+        "campus": "Aracaju",
+        "tipo": "Integrado",
+        "status": "http://www.ifs.edu.br/cursos-nova-pagina/260-cursos/tecnicos/integrados/4276-informatica#ppc",
+        "cor": "green"
+    },
+    {
+        "id": 205,
+        "instituição": "IFSC",
+        "campus": "Caçador",
+        "tipo": "Integrado",
+        "status": "https://sigaa.ifsc.edu.br/sigaa/public/curso/ppp.jsf?lc=pt_BR&id=2399231",
+        "cor": "green"
+    },
+    {
+        "id": 206,
+        "instituição": "IFSC",
+        "campus": "Chapecó",
+        "tipo": "Integrado",
+        "status": "https://sig.ifsc.edu.br/sigrh/downloadArquivo?idArquivo=119109&key=a014b14c83dba5a570e715c45b3468b4",
+        "cor": "green"
+    },
+    {
+        "id": 207,
+        "instituição": "IFSC",
+        "campus": "Garopaba",
+        "tipo": "Integrado",
+        "status": "https://sig.ifsc.edu.br/sigrh/downloadArquivo?idArquivo=153542&key=b2e490edc0e81f2454e1a254f8bd1728",
+        "cor": "green"
+    },
+    {
+        "id": 208,
+        "instituição": "IFSC",
+        "campus": "Gaspar",
+        "tipo": "Integrado",
+        "status": "https://sigaa.ifsc.edu.br/sigaa/verProducao?idProducao=1286221&key=bb030c9bcc606907bb83ab7ae36f3d05",
+        "cor": "green"
+    },
+    {
+        "id": 209,
+        "instituição": "IFSC",
+        "campus": "Xanxerê",
+        "tipo": "Integrado",
+        "status": "Não há o PPC no site",
+        "cor": "red"
+    },
+    {
+        "id": 210,
+        "instituição": "IFSERTÃO-PE",
+        "campus": "Floresta",
+        "tipo": "Integrado",
+        "status": "Não há o PPC no site",
+        "cor": "red"
+    },
+    {
+        "id": 211,
+        "instituição": "IFSERTÃO-PE",
+        "campus": "Ouricuri",
+        "tipo": "Integrado",
+        "status": "Não há o PPC no site",
+        "cor": "red"
+    },
+    {
+        "id": 212,
+        "instituição": "IFSERTÃO-PE",
+        "campus": "Petrolina",
+        "tipo": "Integrado",
+        "status": "https://www.ifsertao-pe.edu.br/images/Campus_Petrolina/2020/NovosPCC/PPC%20Tcnico%20em%20Informtica%20-%20Campus%20Petrolina%20-%20MIN%202020%20-%20Verso%20LEOPOLDINA%202.pdf",
+        "cor": "green"
+    },
+    {
+        "id": 213,
+        "instituição": "IFSERTÃO-PE",
+        "campus": "Salgueiro",
+        "tipo": "Integrado",
+        "status": "https://www.ifsertao-pe.edu.br/images/Aluno/PCCsCursos/Res.%20N%20%2054%20de%2027%20de%20dezembro%20de%202019%20-%20Curso%20Integrado%20de%20Informtica%20Campus%20Salgueiro.pdf",
+        "cor": "green"
+    },
+    {
+        "id": 214,
+        "instituição": "IFSP",
+        "campus": "Araraquara",
+        "tipo": "Integrado",
+        "status": "https://www.arq.ifsp.edu.br/images/arquivos_pdf/ensino/tecnico_informatica_integrado/Projeto_Pedagogico_Tecnico_Informatica_Integrado.pdf",
+        "cor": "green"
+    },
+    {
+        "id": 215,
+        "instituição": "IFSP",
+        "campus": "Barretos",
+        "tipo": "Integrado",
+        "status": "https://brt.ifsp.edu.br/phocadownload/userupload/14857x/PPC-Integrado-IFSP-Informatica-Versao-10.nov.2015.pdf",
+        "cor": "green"
+    },
+    {
+        "id": 216,
+        "instituição": "IFSP",
+        "campus": "Birigui",
+        "tipo": "Integrado",
+        "status": "https://bri.ifsp.edu.br/phocadownload/2016/Integrado/Informatica/bri_ppc_tcnico%20em%20informtica%20integrado%20ao%20ensino%20mdio.pdf",
+        "cor": "green"
+    },
+    {
+        "id": 217,
+        "instituição": "IFSP",
+        "campus": "Bragança Paulista",
+        "tipo": "Integrado",
+        "status": "https://www.bra.ifsp.edu.br/phocadownload/TecnicoInformatica-Integrado/PPC_TecInt_Informatica.pdf",
+        "cor": "green"
+    },
+    {
+        "id": 218,
+        "instituição": "IFSP",
+        "campus": "Campinas",
+        "tipo": "Integrado",
+        "status": "https://drive.ifsp.edu.br/s/5GiXc3w3T5xBd5w#pdfviewer",
+        "cor": "green"
+    },
+    {
+        "id": 219,
+        "instituição": "IFSP",
+        "campus": "Campos do Jordão",
+        "tipo": "Integrado",
+        "status": "https://ifspcjo.edu.br/component/phocadownload/file/1130-ppc-tcnico-informtica",
+        "cor": "green"
+    },
+    {
+        "id": 220,
+        "instituição": "IFSP",
+        "campus": "Capivari",
+        "tipo": "Integrado",
+        "status": "Não há o PPC no site",
+        "cor": "red"
+    },
+    {
+        "id": 221,
+        "instituição": "IFSP",
+        "campus": "Caraguatatuba",
+        "tipo": "Integrado",
+        "status": "http://www.ifspcaraguatatuba.edu.br/wp-content/uploads/2015/11/car_ppc_tecnico-em-informtica-aprovado-pelo-consup-em-04-11-2015.pdf",
+        "cor": "green"
+    },
+    {
+        "id": 222,
+        "instituição": "IFSP",
+        "campus": "Cubatão",
+        "tipo": "Integrado",
+        "status": "https://cbt.ifsp.edu.br/images/Documentos/ppc_tcnico_em_infrmtica_integrado_ao_ensino_mdio_cmpus_cubato_aprovado_consup_05_09_2017_1.pdf",
+        "cor": "green"
+    },
+    {
+        "id": 223,
+        "instituição": "IFSP",
+        "campus": "Hortolândia",
+        "tipo": "Integrado",
+        "status": "https://hto.ifsp.edu.br/portal/images/IFSP/Cursos/Coord_Int_Info/HTO_PPC_Tcnico-_em_Informtica_Integrado_ao_Ensino_Mdio_v8.0.pdf",
+        "cor": "green"
+    },
+    {
+        "id": 224,
+        "instituição": "IFSP",
+        "campus": "Itapetininga",
+        "tipo": "Integrado",
+        "status": "https://itp.ifsp.edu.br/files/Informatica/ppc_integrado_informtica__aprovado.pdf",
+        "cor": "green"
+    },
+    {
+        "id": 225,
+        "instituição": "IFSP",
+        "campus": "Jacareí",
+        "tipo": "Integrado",
+        "status": "https://drive.ifsp.edu.br/s/Nq2E7Poml3A3U99",
+        "cor": "green"
+    },
+    {
+        "id": 226,
+        "instituição": "IFSP",
+        "campus": "Piracicaba",
+        "tipo": "Integrado",
+        "status": "https://prc.ifsp.edu.br/index.php/component/phocadownload/category/25-2017?download=179:ppc-tecintegrado-informatica-ensinomedio",
+        "cor": "green"
+    },
+    {
+        "id": 227,
+        "instituição": "IFSP",
+        "campus": "Presidente Epitácio",
+        "tipo": "Integrado",
+        "status": "https://pep.ifsp.edu.br/images/PDF/PEP-PPC-Informatica-reformulado-2017.pdf",
+        "cor": "green"
+    },
+    {
+        "id": 228,
+        "instituição": "IFSP",
+        "campus": "Salto",
+        "tipo": "Integrado",
+        "status": "https://slt.ifsp.edu.br/images/pdf/slt_ppc_tecnico_em_informtica_integrado_ao_em.pdf",
+        "cor": "green"
+    },
+    {
+        "id": 229,
+        "instituição": "IFSP",
+        "campus": "São João da Boa Vista",
+        "tipo": "Integrado",
+        "status": "http://nuvem.ifsp.edu.br/public.php?service=files&t=8a60335fa94288d74de77f5d030ae231&download",
+        "cor": "green"
+    },
+    {
+        "id": 230,
+        "instituição": "IFSP",
+        "campus": "São Paulo",
+        "tipo": "Integrado",
+        "status": "https://spo.ifsp.edu.br/images/phocadownload/DOCUMENTOS_MENU_LATERAL_FIXO/TECNICOS/INTEGRADO/INFORMATICA/4_anos/PPC__INFORM%C3%81TICA_SPO_Aprovado_pelo_parecer_PRE_n._09_de_12_de_abril_de_2016_2_1.pdf",
+        "cor": "green"
+    },
+    {
+        "id": 231,
+        "instituição": "IFSP",
+        "campus": "Votuporanga",
+        "tipo": "Integrado",
+        "status": "http://vtp.ifsp.edu.br/images/wp-content/uploads/2015/11/vtp_ppc-tcnico-em-informtica-integrado-ao-ensino-mdio.pdf",
+        "cor": "green"
+    },
+    {
+        "id": 232,
+        "instituição": "IFSUDESTE-MG",
+        "campus": "Juiz de Fora",
+        "tipo": "Integrado",
+        "status": "Não existem informações sobre o curso cadastradas no site",
+        "cor": "gray"
+    },
+    {
+        "id": 233,
+        "instituição": "IFSUDESTE-MG",
+        "campus": "Muriaé",
+        "tipo": "Integrado",
+        "status": "https://sig.ifsudestemg.edu.br/sigaa/public/curso/documentos.jsf?lc=pt_BR&id=60420&idTipo=1",
+        "cor": "green"
+    },
+    {
+        "id": 234,
+        "instituição": "IFSUDESTE-MG",
+        "campus": "Rio Pomba",
+        "tipo": "Integrado",
+        "status": "Não existem informações sobre o curso cadastradas no site",
+        "cor": "gray"
+    },
+    {
+        "id": 235,
+        "instituição": "IFSUL",
+        "campus": "Bagé",
+        "tipo": "Integrado",
+        "status": "http://intranet.ifsul.edu.br/catalogo/curso/4",
+        "cor": "green"
+    },
+    {
+        "id": 236,
+        "instituição": "IFSUL",
+        "campus": "Camaquã",
+        "tipo": "Integrado",
+        "status": "http://intranet.ifsul.edu.br/catalogo/curso/154",
+        "cor": "green"
+    },
+    {
+        "id": 237,
+        "instituição": "IFSUL",
+        "campus": "Charqueadas",
+        "tipo": "Integrado",
+        "status": "http://intranet.ifsul.edu.br/catalogo/curso/2",
+        "cor": "green"
+    },
+    {
+        "id": 238,
+        "instituição": "IFSUL",
+        "campus": "Passo Fundo",
+        "tipo": "Integrado",
+        "status": "http://intranet.ifsul.edu.br/catalogo/curso/272",
+        "cor": "green"
+    },
+    {
+        "id": 239,
+        "instituição": "IFSUL",
+        "campus": "Sapiranga ",
+        "tipo": "Integrado",
+        "status": "http://intranet.ifsul.edu.br/catalogo/curso/171",
+        "cor": "green"
+    },
+    {
+        "id": 240,
+        "instituição": "IFSUL",
+        "campus": "Sapucaia do Sul",
+        "tipo": "Integrado",
+        "status": "http://intranet.ifsul.edu.br/catalogo/curso/47",
+        "cor": "green"
+    },
+    {
+        "id": 241,
+        "instituição": "IFSUL",
+        "campus": "Venâncio Aires",
+        "tipo": "Integrado",
+        "status": "http://intranet.ifsul.edu.br/catalogo/curso/27",
+        "cor": "green"
+    },
+    {
+        "id": 242,
+        "instituição": "IFSULDEMINAS",
+        "campus": "Avançado Carmo de Minas",
+        "tipo": "Integrado",
+        "status": "https://portal.ifsuldeminas.edu.br/images/PDFs/Conselho_Superior_/resolucoes/2018/86a100/091.2018.pdf",
+        "cor": "green"
+    },
+    {
+        "id": 243,
+        "instituição": "IFSULDEMINAS",
+        "campus": "Avançado Três Corações",
+        "tipo": "Integrado",
+        "status": "https://portal.ifsuldeminas.edu.br/images/PDFs/Conselho_Superior_/resolucoes/2019/140.2019.pdf",
+        "cor": "green"
+    },
+    {
+        "id": 244,
+        "instituição": "IFSULDEMINAS",
+        "campus": "Inconfidentes ",
+        "tipo": "Integrado",
+        "status": "https://portal.ifs.ifsuldeminas.edu.br/arquivos/paginas/menu_cursos/cursos_tecnicos_integrados/tecnico_em_informatica/118.2019_-_Técnico_Informática.pdf",
+        "cor": "green"
+    },
+    {
+        "id": 245,
+        "instituição": "IFSULDEMINAS",
+        "campus": "Machado",
+        "tipo": "Integrado",
+        "status": "https://portal.ifsuldeminas.edu.br/images/PDFs/Conselho_Superior_/resolucoes/2019/145.2019.pdf",
+        "cor": "green"
+    },
+    {
+        "id": 246,
+        "instituição": "IFSULDEMINAS",
+        "campus": "Muzambinho",
+        "tipo": "Integrado",
+        "status": "https://www.muz.ifsuldeminas.edu.br/attachments/article/1533/PPC%20-%20Integrado%20-%202020%20Final.pdf",
+        "cor": "green"
+    },
+    {
+        "id": 247,
+        "instituição": "IFSULDEMINAS",
+        "campus": "Passos",
+        "tipo": "Integrado",
+        "status": "https://portal.ifsuldeminas.edu.br/images/PDFs/Conselho_Superior_/resolucoes/2019/148.2019.pdf",
+        "cor": "green"
+    },
+    {
+        "id": 248,
+        "instituição": "IFSULDEMINAS",
+        "campus": "Poços de Caldas",
+        "tipo": "Integrado",
+        "status": "https://drive.google.com/file/d/1Y1kDTIX0wUWQ_1B5oUgaIrADl7yv3__1/view",
+        "cor": "green"
+    },
+    {
+        "id": 249,
+        "instituição": "IFSULDEMINAS",
+        "campus": "Pouso Alegre",
+        "tipo": "Integrado",
+        "status": "https://portal.poa.ifsuldeminas.edu.br/images/2020/Setembro/30/Resolução_-_Técnico_em_Informática_Integrado_compressed.pdf",
+        "cor": "green"
+    },
+    {
+        "id": 250,
+        "instituição": "IFTM",
+        "campus": "Ituiutaba",
+        "tipo": "Integrado",
+        "status": "https://iftm.edu.br/ituiutaba/cursos/tecnico-integrado-presencial/informatica/ppc/",
+        "cor": "green"
+    },
+    {
+        "id": 251,
+        "instituição": "IFTM",
+        "campus": "Paracatu",
+        "tipo": "Integrado",
+        "status": "https://iftm.edu.br/paracatu/cursos/tecnico-integrado-presencial/info/ppc/",
+        "cor": "green"
+    },
+    {
+        "id": 252,
+        "instituição": "IFTO",
+        "campus": "Araguaína",
+        "tipo": "Integrado",
+        "status": "http://www.ifto.edu.br/ifto/colegiados/consup/documentos-aprovados/ppc/campus-araguaina/tecnico-em-informatica-integrado-ao-ensino-medio/ppc-tecnico-em-informatica-integrado-campus-araguaina-ifto.pdf/view",
+        "cor": "green"
+    },
+    {
+        "id": 253,
+        "instituição": "IFTO",
+        "campus": "Colinas do Tocantins ",
+        "tipo": "Integrado",
+        "status": "http://www.ifto.edu.br/ifto/colegiados/consup/documentos-aprovados/ppc/campus-colinas-do-tocantins/tecnico-em-informatica-integrado-ao-ensino-medio/ppc-tecnico-informatica-integrado-medio-campus-colinas-tocantins.pdf",
+        "cor": "green"
+    },
+    {
+        "id": 254,
+        "instituição": "IFTO",
+        "campus": "Dianópolis",
+        "tipo": "Integrado",
+        "status": "http://www.ifto.edu.br/ifto/colegiados/consup/documentos-aprovados/ppc/campus-dianopolis/tecnico-em-informatica-integrado-ao-ensino-medio/ppc-tecnico-integrado-medio-informatica-campus-dianopolis.pdf/view",
+        "cor": "green"
+    },
+    {
+        "id": 255,
+        "instituição": "IFTO",
+        "campus": "Palmas",
+        "tipo": "Integrado",
+        "status": "Nome do curso está trocado na base de dados, nome certo: Informática para Internet ",
+        "cor": "gray"
+    },
+    {
+        "id": 256,
+        "instituição": "IFTO",
+        "campus": "Paraíso do Tocantins ",
+        "tipo": "Integrado",
+        "status": "http://www.ifto.edu.br/ifto/colegiados/consup/documentos-aprovados/ppc/campus-paraiso-do-tocantins/tecnico-em-informatica/ppc-tecnico-em-informatica-integrado-ensino-medio-campus-paraiso-tocantins.pdf/view",
+        "cor": "green"
+    }
+]
