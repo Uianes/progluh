@@ -28,16 +28,16 @@
             </a>
             <br>
             <p class="title1">
-                SOBRE O ENSINO DE ALGORITMOS NOS INSTITUTOS FEDERAIS EDUCAÇÃO, CIÊNCIA E TECNOLOGIA
+                ANÁLISE DOS CURRÍCULOS DOS CURSOS TÉCNICOS EM INFORMÁTICA NO BRASIL
             </p>
         </nav>
         <div class="container-fluid">
             <div id="author">
                 <p>Uianes Luiz Rockenbach Biondo
                     <br>
-                    Data de criação: 13/01/2022
+                    Data de criação: 15/01/2022
                     <br>
-                    Última modificação: 13/01/2022
+                    Última modificação: 15/01/2022
                 </p>
             </div>
             <div class="text1" style="padding-top: 30vh">
@@ -55,14 +55,7 @@
                             <a href="#cursos">II -</a> Distribuição dos cursos "Técnico em Informática" pelo Brasil
                             </p>
                         </li>
-                        <li>
-                            <a href="#campi">III -</a> Distribuição dos cursos "Técnico em Informática" por
-                            <i>Campi</i>
-                            pelo Brasil</p>
-                        </li>
-                        <li>
-                            <a href="#ppcs">IV -</a> Levantamento dos currículos dos cursos</p>
-                        </li>
+                        
                     </ul>
                 </ul>
                 <br>
