@@ -41,341 +41,93 @@
                 </p>
             </div>
             <div class="text1" style="padding-top: 30vh">
-                <p>
-                <ul>
-                    <li type="none">
-                        Sumário
-                    </li>
-                    <ul style="margin-left: 5vw">
-                        <li>
-                            <a href="#dados">I -</a> Dados Gerais dos cursos "Técnico em Informática" pelo Brasil
-                            </p>
-                        </li>
-                        <li>
-                            <a href="#cursos">II -</a> Distribuição dos cursos "Técnico em Informática" pelo Brasil
-                            </p>
-                        </li>
-                        
-                    </ul>
-                </ul>
-                <br>
-                <br>
-                O presente estudo utilizou como base os dados do ano de 2019 (PNP 2020 - ANO BASE 2019), da
-                plataforma
-                Nilo Peçanha.
-                <br>
-                <br>
-                A plataforma Nilo Peçanha fornece dados educacionais sobre as Instituições de Ensino da Rede Federal
-                de
-                Educação, Ciência e Tecnologia.
-                <br>
-                <br>
-                Link para acesso: <a href="http://plataformanilopecanha.mec.gov.br" target="_blank">Clique aqui</a>
-                <br>
-                <br>
-                A metodologia de levantamento de dados consistiu em acessar o PNP 2020 - Ano base 2019, na aba: 1.2
-                Tipo
-                de Curso.
-                <br>
-                Padrões de busca pelos dados:
-                <ul>
-                    <li>
-                        Região: Tudo
-                    </li>
-                    <li>
-                        UF: Tudo
-                    </li>
-                    <li>
-                        Município: Tudo
-                    </li>
-                    <li>
-                        Organização Acadêmica: Instituto Federal
-                    </li>
-                    <li>
-                        Instituição: Tudo
-                    </li>
-                    <li>
-                        Unidade de Ensino: Tudo
-                    </li>
-                    <li>
-                        Tipo de Curso: Técnico
-                    </li>
-                    <li>
-                        Tipo de oferta: Tudo
-                    </li>
-                    <li>
-                        Nome Curso: Técnico em Informática
-                    </li>
-                    <li>
-                        Modalidade de Ensino: Tudo
-                    </li>
-                    <li>
-                        Turno: Tudo
-                    </li>
-                    <li>
-                        Eixo Tecnológico: Tudo
-                    </li>
-                    <li>
-                        Subeixo Tecnológico: Informática
-                    </li>
-                    <li>
-                        Fonte de Financiamento: Recursos Orçamentários
-                    </li>
-                </ul>
-                <br>
-                <small>Considerando a replicabilidade do estudo científico, é importante que os dados sejam
-                    preenchidos
-                    da
-                    mesma forma em uma futura busca.</small>
-                <br>
-                <br>
-                Os resultados da busca sobre os cursos técnicos em Informática retornaram os seguintes valores:
-                </p>
-                <p class="title2" id="dados">I - Dados Gerais dos cursos "Técnico em Informática" pelo Brasil</p>
-                <br>
-                <br>
-                <table class="table table-bordered">
-                    <thead>
-                        <tr>
-                            <th scope="col">
-                                Unidades<small>*</small>
-                            </th>
-                            <th scope="col">
-                                Cursos<small>**</small>
-                            </th>
-                            <th scope="col">
-                                Matrículas
-                            </th>
-                        </tr>
-                    </thead>
-                    <tbody>
-                        <tr>
-                            <th scope="row">
-                                308
-                            </th>
-                            <th scope="row">
-                                583
-                            </th>
-                            <th scope="row">
-                                51.526
-                            </th>
-                        </tr>
-                    </tbody>
-                </table>
-                <small>
-                    * Corresponde ao número de <i>Campi</i> dos Institutos Federais ao Total.
-                    <br>
-                    ** Corresponde ao número total de Cursos Técnicos em Informática ofertados.
-                </small>
-                <br>
-                <br>
-                <table class="table table-bordered">
-                    <thead>
-                        <tr>
-                            <th scope="col">
-                                Ingressantes
-                            </th>
-                            <th scope="col">
-                                Concluintes
-                            </th>
-                            <th scope="col">
-                                Vagas
-                            </th>
-                            <th scope="col">
-                                Inscritos<small>***</small>
-                            </th>
-                        </tr>
-                    </thead>
-                    <tbody>
-                        <tr>
-                            <th scope="row">
-                                16.597
-                            </th>
-                            <th scope="row">
-                                8.669
-                            </th>
-                            <th scope="row">
-                                17.168
-                            </th>
-                            <th scope="row">
-                                82.354
-                            </th>
-                        </tr>
-                    </tbody>
-                </table>
-                <small>
-                    *** Corresponde ao número total de inscritos nos processos seletivos anuais das instituições.
-                </small>
-                <p>
-                    Fonte dos dados: <a href="http://plataformanilopecanha.mec.gov.br/2020.html"
-                        target="_blank">Plataforma
-                        Nilo Peçanha</a>, 2022
-                </p>
-                <br>
-                <br>
-                <p class="title2" id="cursos">II - Distribuição dos cursos "Técnico em Informática" pelo Brasil
-                </p>
-                <br>
-                <p>Distribuição dos Cursos por região geográfica:</p>
-                <img width="100%" src="img/DistribuiçãoCursos.png"
-                    alt="Descrição da imagem: Há um mapa do Brasil dividido nas regiões: Sul; Sudeste; Centro-Oeste; Norte; Nordeste; A distribuição dos cursos é a seguinte: Região Sul: 85 cursos; Região Sudeste: 107 cursos; Região Centro-Oeste: 48 cursos; Região Norte: 96 cursos; Região Nordeste: 247 cursos;">
-                <small>Observação: A proporção representada na imagem precisa ser ajustada, pois não utiliza a
-                    mesma escala.</small>
-                <p>
-                    Fonte dos dados: <a href="http://plataformanilopecanha.mec.gov.br/2020.html"
-                        target="_blank">Plataforma
-                        Nilo Peçanha</a>, 2022
-                    <br>
-                    Fonte da imagem: Do Autor, 2022.
-                </p>
-                <br>
-                <p>
-                    Descrição da imagem: Há um mapa do Brasil dividido nas regiões: <br>
-                    Sul; Sudeste; Centro-Oeste; Norte; Nordeste;
-                    <br>
-                    A distribuição dos cursos é a seguinte:
-                    <br> Região Sul: 85 cursos;
-                    <br> Região Sudeste: 107 cursos;
-                    <br> Região Centro-Oeste: 48 cursos;
-                    <br> Região Norte: 96 cursos;
-                    <br> Região Nordeste: 247 cursos;
-                </p>
-                <br>
-                <br>
-                <p class="title2" id="campi">III - Distribuição dos cursos "Técnico em Informática" por <i>Campi</i>
-                    pelo Brasil
-                </p>
-                <p>Distribuição dos <i>Campi</i> por região geográfica:</p>
-                <img width="100%" src="img/DistribuiçãoCampi.png"
-                    alt="Descrição da imagem: Há um mapa do Brasil dividido nas regiões: Sul; Sudeste; Centro-Oeste; Norte; Nordeste; A distribuição dos Campi é a seguinte: Região Sul: 60 campi; Região Sudeste: 65 campi; Região Centro-Oeste: 28 campi; Região Norte: 47 campi; Região Nordeste: 108 campi;">
-                <small>Observação: A proporção representada na imagem precisa ser ajustada, pois não utiliza a
-                    mesma escala.</small>
-                <p>
-                    Fonte dos dados: <a href="http://plataformanilopecanha.mec.gov.br/2020.html"
-                        target="_blank">Plataforma
-                        Nilo Peçanha</a>, 2022
-                    <br>
-                    Fonte da imagem: Do Autor, 2022.
-                </p>
-                <br>
-                <p>
-                    Descrição da imagem: Há um mapa do Brasil dividido nas regiões: <br>
-                    Sul; Sudeste; Centro-Oeste; Norte; Nordeste;
-                    <br>
-                    A distribuição dos <i>Campi</i> é a seguinte:
-                    <br> Região Sul: 60 <i>Campi</i>;
-                    <br> Região Sudeste: 65 <i>Campi</i>;
-                    <br> Região Centro-Oeste: 28 <i>Campi</i>;
-                    <br> Região Norte: 47 <i>Campi</i>;
-                    <br> Região Nordeste: 108 <i>Campi</i>;
-                </p>
-                <br>
-                <br>
-                <p class="title2" id="ppcs">IV - Levantamento dos currículos dos cursos
-                </p>
-                
-                <br>
-                <div id="app">
-                    <form method="POST">
-                        Tipo de curso: <input type="text" id="course_type" placeholder="Integrado">
-                        Unidade Federativa: <input type="text" id="UF" placeholder="Rio Grande do Sul">
-                        <button type="button" v-on:click="getData()">Pesquisar</button>
-                    </form>
-                    <div id="results">
-                        <table>
-                            <thead>
-                                <tr>
-                                    <th>
-                                        Instituição
-                                    </th>
-                                    <th>
-                                        Campus
-                                    </th>
-                                    <th>
-                                        Modalidade
-                                    </th>
-                                    <th>
-                                        Duração do curso
-                                    </th>
-                                    <th>
-                                        Ano do PPC
-                                    </th>
-                                    <th>
-                                        Disciplina
-                                    </th>
-                                    <th>
-                                        Ano de Oferta da Disciplina
-                                    </th>
-                                    <th>
-                                        Semestre
-                                    </th>
-                                    <th>
-                                        Horas da Disciplina
-                                    </th>
-                                    <th>
-                                        Linguagem identificada
-                                    </th>
-                                    <th>
-                                        Conteúdos
-                                    </th>
-                                    <th>
-                                        Bibliografia Básica
-                                    </th>
-                                    <th>
-                                        Bibliografia Complementar
-                                    </th>
-                                </tr>
-                            </thead>
-                            <tbody>
-                                <tr v-for="course in courses">
-                                    <th>
-                                        {{course.instituição}}
-                                    </th>
-                                    <th>
-                                        {{course.campus}}
-                                    </th>
-                                    <th>
-                                        {{course.modalidade}}
-                                    </th>
-                                    <th>
-                                        {{course.duração}}
-                                    </th>
-                                    <th>
-                                        {{course.ano}}
-                                    </th>
-                                    <th>
-                                        {{course.disciplina}}
-                                    </th>
-                                    <th>
-                                        {{course.ano_oferta}}
-                                    </th>
-                                    <th>
-                                        {{course.semestre}}
-                                    </th>
-                                    <th>
-                                        {{course.horas}}
-                                    </th>
-                                    <th>
-                                        {{course.linguagem}}
-                                    </th>
-                                    <th>
-                                        {{course.conteúdos}}
-                                    </th>
-                                    <th>
-                                        {{course.bibliografia_básica}}
-                                    </th>
-                                    <th>
-                                        {{course.bibliografia_complementar}}
-                                    </th>
-                                </tr>
-                            </tbody>
-                        </table>
+                <div class="row">
+                    <div class="col-12 text-center">
+                        <form method="POST">
+                            <div class="form-check form-check-inline">
+                                <input class="form-check-input" type="radio" name="curso" id="concomitante" value="concomitante" checked>
+                                <label class="form-check-label" for="concomitante">Concomitante</label>
+                            </div>
+                            <div class="form-check form-check-inline">
+                                <input class="form-check-input" type="radio" name="curso" id="integrado" value="integrado">
+                                <label class="form-check-label" for="integrado">Integrado</label>
+                            </div>
+                            <div class="form-check form-check-inline">
+                                <input class="form-check-input" type="radio" name="curso" id="proeja" value="proeja">
+                                <label class="form-check-label" for="proeja">PROEJA</label>
+                            </div>
+                            <div class="form-check form-check-inline">
+                                <input class="form-check-input" type="radio" name="curso" id="subsequente" value="subsequente">
+                                <label class="form-check-label" for="subsequente">Subsequente</label>
+                            </div>
+                            <div class="form-check form-check-inline">
+                                <input type="submit" name="gerar" class="btn btn-success" value="Gerar"/>
+                            </div>
+                        </form>
+                        <?php
+                            if(isset($_POST['gerar'])){
+                                $dadosJson = file_get_contents("ppcs/".$_POST['curso']."_ppcs.json");
+                                $dadosJsonDecodificados = json_decode($dadosJson);
+
+                                echo"<div class='table-responsive'><table class='table table-bordered' style='font-size: smaller'>
+                                        <thead>
+                                            <tr>
+                                                <th scope='col'>
+                                                    ID
+                                                </th>
+                                                <th scope='col'>
+                                                    Instituição
+                                                </th>
+                                                <th scope='col'>
+                                                    Campus
+                                                </th>
+                                                <th scope='col'>
+                                                    Tipo
+                                                </th>
+                                                <th scope='col'>
+                                                    Status
+                                                </th>
+                                            </tr>
+                                        </thead>
+                                        <tbody>
+                                    ";
+
+                                foreach($dadosJsonDecodificados as $key => $value){
+                                    echo "
+                                        <tr>
+                                            <th scope='row' style='background-color: $value->cor;'>
+                                                $value->id
+                                            </th>
+                                            <th scope='row'>
+                                                $value->instituição
+                                            </th>
+                                            <th scope='row'>
+                                                $value->campus
+                                            </th>
+                                            <th scope='row'>
+                                                $value->tipo
+                                            </th>";
+                                            if($value->cor == "green"){
+                                                echo "
+                                                <th scope='row'>
+                                                    <a href='$value->status' target='_blank'>Acessar</a>
+                                                </th>
+                                                ";
+                                            } else {
+                                                echo "
+                                                <th scope='row'>
+                                                    $value->status
+                                                </th>
+                                                ";
+                                            }
+                                        echo "</tr>";        
+                                }
+                                echo "</tbody> </table> </div>";
+                            }
+                        ?>
                     </div>
-                </div>
+                </div>    
             </div>
-        </div>
-
-
     </main>
     <!-- Bootstrap Bundle with Popper -->
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"
