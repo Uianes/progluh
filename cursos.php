@@ -156,9 +156,21 @@
                                             if($value->bibliografia_básica == "") {
                                                 echo "
                                                 <th scope='row'>
-                                                    $value->status
+                                                    Não há bibliografia cadastrada para este curso!
                                                 </th>
                                                 ";
+                                            } else {
+
+                                            }
+                                            if($value->bibliografia_complementar == "") {
+                                                echo "
+                                                <th scope='row'>
+                                                    Não há bibliografia cadastrada para este curso!
+                                                </th>
+                                                
+                                                ";
+                                            } else {
+                                                
                                             }
                                         echo "</tr>";        
                                 }
