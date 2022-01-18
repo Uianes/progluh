@@ -1,17 +1,19 @@
-{
-   "id": 1,
-   "instituição": "IFMA",
-   "campus": "Grajaú",
-   "modalidade": "PROEJA",
-   "duração": 3,
-   "ano": 2017,
-   "disciplina": "Algoritmos e Lógica de Programação",
-   "área": "Formação Profissional",
-   "ano_oferta": 1,
-   "semestre": "Anual",
-   "horas": 80,
-   "linguagem": "Metalinguagem",
-   "conteúdos": 1,
-   "bibliografia_básica": "1; 2; 3;",
-   "bibliografia_complementar": "1;"
-}
+[
+   {
+      "id": 1,
+      "instituição": "IFMA",
+      "campus": "Grajaú",
+      "modalidade": "PROEJA",
+      "duração": 3,
+      "ano": 2017,
+      "disciplina": "Algoritmos e Lógica de Programação",
+      "área": "Formação Profissional",
+      "ano_oferta": 1,
+      "semestre": "Anual",
+      "horas": 80,
+      "linguagem": "Metalinguagem",
+      "conteúdos": 1,
+      "bibliografia_básica": "1; 2; 3;",
+      "bibliografia_complementar": "1;"
+   }
+]

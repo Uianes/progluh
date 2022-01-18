@@ -66,7 +66,7 @@
                         </form>
                         <?php
                             if(isset($_POST['gerar'])){
-                                $dadosJson = file_get_contents("ppcs/".$_POST['curso']."_ppcs.json");
+                                $dadosJson = file_get_contents("proeja/maranhão.json");
                                 $dadosJsonDecodificados = json_decode($dadosJson);
 
                                 echo"<div class='table-responsive'><table class='table table-bordered' style='font-size: smaller'>
@@ -143,15 +143,40 @@
                                             <th scope='row'>
                                                 $value->linguagem
                                             </th>
-                                            ";
-                                            if($value->conteúdos == 0){
+                                            "; 
+                                            echo $value->conteúdos;
+                                            if($value->conteúdos == 0 ){
                                                 echo "
                                                 <th scope='row'>
                                                     Nao há currículo cadastrado para este curso!
                                                 </th>
                                                 ";
                                             } else {
-                                                
+                                                $conteudos = file_get_contents("c.json");
+                                                $dadosJsonDecodificados = json_decode($dadosJson);
+                                                echo "
+                                                <button type='button' class='btn btn-primary' data-bs-toggle='modal' data-bs-target='#Modal$value->id'>
+                                                Ver conteúdos
+                                                </button>
+
+
+                                                <div class='modal fade' id='Modal$value->id' tabindex='-1' aria-labelledby='ModalLabel$value->id' aria-hidden='true'>
+                                                <div class='modal-dialog'>
+                                                    <div class='modal-content'>
+                                                    <div class='modal-header'>
+                                                        <h5 class='modal-title' id='ModalLabel$value->id'>Conteúdos</h5>
+                                                        <button type='button' class='btn-close' data-bs-dismiss='modal' aria-label='Close'></button>
+                                                    </div>
+                                                    <div class='modal-body'>
+                                                        $value->conteúdos
+                                                    </div>
+                                                    <div class='modal-footer'>
+                                                        <button type='button' class='btn btn-secondary' data-bs-dismiss='modal'>Close</button>
+                                                    </div>
+                                                    </div>
+                                                </div>
+                                                </div>
+                                                ";
                                             }
                                             if($value->bibliografia_básica == "") {
                                                 echo "
@@ -160,17 +185,16 @@
                                                 </th>
                                                 ";
                                             } else {
-
+                                                echo "FOI";
                                             }
                                             if($value->bibliografia_complementar == "") {
                                                 echo "
                                                 <th scope='row'>
                                                     Não há bibliografia cadastrada para este curso!
                                                 </th>
-                                                
                                                 ";
                                             } else {
-                                                
+                                                echo "FOI";
                                             }
                                         echo "</tr>";        
                                 }
